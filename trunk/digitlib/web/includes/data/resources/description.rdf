@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE rdf:RDF [ 
+	<!ENTITY base "http://localhost/digitlib/data/">
+	<!ENTITY acmccs98 "http://www.acm.org/class/1998">
+]>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:voc="&base;vocabularies.rdfs#"
+	xmlns:acmccs98="&acmccs98;#"
+	xmlns:res="&base;resources.rdfs#"
+	xml:base="&base;description.rdf#">
+
+<rdf:Description rdf:ID="C1">
+	<rdf:type rdf:resource="&acmccs98;#I.6.5.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C3">
+	<rdf:type rdf:resource="&acmccs98;#J.3.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C4">
+	<rdf:type rdf:resource="&acmccs98;#D.1.3.1"/>
+	<rdf:type rdf:resource="&acmccs98;#C.1.2.7"/>
+	<rdf:type rdf:resource="&acmccs98;#D.2.2.8"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C5">
+	<rdf:type rdf:resource="&acmccs98;#D.2.0.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C6">
+	<rdf:type rdf:resource="&acmccs98;#E.4.0"/>
+	<rdf:type rdf:resource="&acmccs98;#H.3.3.5"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C7">
+	<rdf:type rdf:resource="&acmccs98;#K.3.2.1"/>
+	<rdf:type rdf:resource="&acmccs98;#H.3.5.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C9">
+	<rdf:type rdf:resource="&acmccs98;#B.4.3.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C10">
+	<rdf:type rdf:resource="&acmccs98;#E.1.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C11">
+	<rdf:type rdf:resource="&acmccs98;#J.1.1"/>
+	<rdf:type rdf:resource="&acmccs98;#G.1.3.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C12">
+	<rdf:type rdf:resource="&acmccs98;#J.5.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C13">
+	<rdf:type rdf:resource="&acmccs98;#K.6.3.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C14">
+	<rdf:type rdf:resource="&acmccs98;#G.2.1.3"/>
+	<rdf:type rdf:resource="&acmccs98;#G.4.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C15">
+	<rdf:type rdf:resource="&acmccs98;#F.1.2.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C16">
+	<rdf:type rdf:resource="&acmccs98;#D.4.1.3"/>
+	<rdf:type rdf:resource="&acmccs98;#C.2.4"/>
+	<rdf:type rdf:resource="&acmccs98;#G.2.2.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C17">
+	<rdf:type rdf:resource="&acmccs98;#F.3.1.0"/>
+	<rdf:type rdf:resource="&acmccs98;#F.4.1.7"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C18">
+	<rdf:type rdf:resource="&acmccs98;#J.1.1"/>
+	<rdf:type rdf:resource="&acmccs98;#C.2.0.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C19">
+	<rdf:type rdf:resource="&acmccs98;#C.2.3.0"/>
+	<rdf:type rdf:resource="&acmccs98;#C.2.3.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C20">
+	<rdf:type rdf:resource="&acmccs98;#D.4.6.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C21">
+	<rdf:type rdf:resource="&acmccs98;#D.4.3.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C22">
+	<rdf:type rdf:resource="&acmccs98;#B.1.2.2"/>
+	<rdf:type rdf:resource="&acmccs98;#B.1.4.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C25">
+	<rdf:type rdf:resource="&acmccs98;#I.2.6.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C27">
+	<rdf:type rdf:resource="&acmccs98;#H.1.2.0"/>
+	<rdf:type rdf:resource="&acmccs98;#I.2.4.5"/>
+	<rdf:type rdf:resource="&acmccs98;#I.3.6.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C28">
+	<rdf:type rdf:resource="&acmccs98;#H.3.3.4"/>
+	<rdf:type rdf:resource="&acmccs98;#H.5.1.2"/>
+	<rdf:type rdf:resource="&acmccs98;#H.5.2.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C29">
+	<rdf:type rdf:resource="&acmccs98;#F.2.2.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C30">
+	<rdf:type rdf:resource="&acmccs98;#H.5.1.1"/>
+	<rdf:type rdf:resource="&acmccs98;#I.3.7.6"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C32">
+	<rdf:type rdf:resource="&acmccs98;#C.2.1.10"/>
+	<rdf:type rdf:resource="&acmccs98;#C.2.1.6"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C33">
+	<rdf:type rdf:resource="&acmccs98;#I.2.7.6"/>
+	<rdf:type rdf:resource="&acmccs98;#G.3.7"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C34">
+	<rdf:type rdf:resource="&acmccs98;#F.3.1.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C35">
+	<rdf:type rdf:resource="&acmccs98;#J.1.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C36">
+	<rdf:type rdf:resource="&acmccs98;#F.2.2.2"/>
+	<rdf:type rdf:resource="&acmccs98;#B.7.1.7"/>
+	<rdf:type rdf:resource="&acmccs98;#B.7.2.1"/>
+	<rdf:type rdf:resource="&acmccs98;#G.2.2.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C38">
+	<rdf:type rdf:resource="&acmccs98;#I.7.2.1"/>
+	<rdf:type rdf:resource="&acmccs98;#I.7.2.7"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C39">
+	<rdf:type rdf:resource="&acmccs98;#F.3.1.0"/>
+	<rdf:type rdf:resource="&acmccs98;#D.3.2.0"/>
+	<rdf:type rdf:resource="&acmccs98;#I.1.1.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C42">
+	<rdf:type rdf:resource="&acmccs98;#J.3.1"/>
+	<rdf:type rdf:resource="&acmccs98;#I.2.1.4"/>
+	<rdf:type rdf:resource="&acmccs98;#I.2.6.2"/>
+	<rdf:type rdf:resource="&acmccs98;#I.5.2.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C44">
+	<rdf:type rdf:resource="&acmccs98;#J.1.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C45">
+	<rdf:type rdf:resource="&acmccs98;#F.3.3.4"/>
+	<rdf:type rdf:resource="&acmccs98;#D.3.3.14"/>
+	<rdf:type rdf:resource="&acmccs98;#F.3.2.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C46">
+	<rdf:type rdf:resource="&acmccs98;#G.1.0.2"/>
+	<rdf:type rdf:resource="&acmccs98;#G.1.0.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C47">
+	<rdf:type rdf:resource="&acmccs98;#C.2.1.10"/>
+	<rdf:type rdf:resource="&acmccs98;#C.2.1.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C48">
+	<rdf:type rdf:resource="&acmccs98;#C.2.4.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C49">
+	<rdf:type rdf:resource="&acmccs98;#D.2.9.1"/>
+	<rdf:type rdf:resource="&acmccs98;#K.6.3.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C50">
+	<rdf:type rdf:resource="&acmccs98;#I.1.3.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C51">
+	<rdf:type rdf:resource="&acmccs98;#B.7.1.7"/>
+	<rdf:type rdf:resource="&acmccs98;#F.1.2.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C52">
+	<rdf:type rdf:resource="&acmccs98;#K.3.2.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C53">
+	<rdf:type rdf:resource="&acmccs98;#H.3.3.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C54">
+	<rdf:type rdf:resource="&acmccs98;#F.2.2.1"/>
+	<rdf:type rdf:resource="&acmccs98;#F.2.2.2"/>
+	<rdf:type rdf:resource="&acmccs98;#E.1.6"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C56">
+	<rdf:type rdf:resource="&acmccs98;#B.7.1.5"/>
+	<rdf:type rdf:resource="&acmccs98;#B.7.1.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C57">
+	<rdf:type rdf:resource="&acmccs98;#I.2.5.0"/>
+	<rdf:type rdf:resource="&acmccs98;#H.4.2.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C59">
+	<rdf:type rdf:resource="&acmccs98;#B.7.1.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C60">
+	<rdf:type rdf:resource="&acmccs98;#D.2.2.12"/>
+	<rdf:type rdf:resource="&acmccs98;#I.3.7.6"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C61">
+	<rdf:type rdf:resource="&acmccs98;#J.3.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C62">
+	<rdf:type rdf:resource="&acmccs98;#G.3.13"/>
+	<rdf:type rdf:resource="&acmccs98;#H.3.4.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C63">
+	<rdf:type rdf:resource="&acmccs98;#C.2.0.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C64">
+	<rdf:type rdf:resource="&acmccs98;#H.2.4.5"/>
+	<rdf:type rdf:resource="&acmccs98;#H.2.1.0"/>
+	<rdf:type rdf:resource="&acmccs98;#H.3.3.2"/>
+	<rdf:type rdf:resource="&acmccs98;#H.3.4.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C65">
+	<rdf:type rdf:resource="&acmccs98;#C.2.3.0"/>
+	<rdf:type rdf:resource="&acmccs98;#F.2.2.5"/>
+	<rdf:type rdf:resource="&acmccs98;#I.2.11.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C66">
+	<rdf:type rdf:resource="&acmccs98;#D.4.7.3"/>
+	<rdf:type rdf:resource="&acmccs98;#D.4.7.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C67">
+	<rdf:type rdf:resource="&acmccs98;#J.5.1"/>
+	<rdf:type rdf:resource="&acmccs98;#I.3.5.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C68">
+	<rdf:type rdf:resource="&acmccs98;#H.2.1.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C70">
+	<rdf:type rdf:resource="&acmccs98;#K.1.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C72">
+	<rdf:type rdf:resource="&acmccs98;#G.1.6.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C73">
+	<rdf:type rdf:resource="&acmccs98;#H.1.2.0"/>
+	<rdf:type rdf:resource="&acmccs98;#H.3.3.2"/>
+	<rdf:type rdf:resource="&acmccs98;#I.3.6.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C74">
+	<rdf:type rdf:resource="&acmccs98;#F.2.2.4"/>
+	<rdf:type rdf:resource="&acmccs98;#B.7.1.4"/>
+	<rdf:type rdf:resource="&acmccs98;#B.7.2.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C76">
+	<rdf:type rdf:resource="&acmccs98;#D.2.6.1"/>
+	<rdf:type rdf:resource="&acmccs98;#D.3.2.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C77">
+	<rdf:type rdf:resource="&acmccs98;#F.2.2.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C79">
+	<rdf:type rdf:resource="&acmccs98;#J.6.0"/>
+	<rdf:type rdf:resource="&acmccs98;#B.1.2.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C80">
+	<rdf:type rdf:resource="&acmccs98;#D.4.5.0"/>
+	<rdf:type rdf:resource="&acmccs98;#D.4.8.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C81">
+	<rdf:type rdf:resource="&acmccs98;#I.2.7.5"/>
+	<rdf:type rdf:resource="&acmccs98;#H.5.2.8"/>
+	<rdf:type rdf:resource="&acmccs98;#I.2.1.5"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C82">
+	<rdf:type rdf:resource="&acmccs98;#I.3.7.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C83">
+	<rdf:type rdf:resource="&acmccs98;#D.4.7.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C84">
+	<rdf:type rdf:resource="&acmccs98;#H.4.2.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C86">
+	<rdf:type rdf:resource="&acmccs98;#H.3.3.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C88">
+	<rdf:type rdf:resource="&acmccs98;#H.2.4.5"/>
+	<rdf:type rdf:resource="&acmccs98;#I.1.2.1"/>
+	<rdf:type rdf:resource="&acmccs98;#I.2.0.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C90">
+	<rdf:type rdf:resource="&acmccs98;#C.1.4.1"/>
+	<rdf:type rdf:resource="&acmccs98;#C.2.1.3"/>
+	<rdf:type rdf:resource="&acmccs98;#H.5.1.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C91">
+	<rdf:type rdf:resource="&acmccs98;#I.3.5.2"/>
+	<rdf:type rdf:resource="&acmccs98;#I.2.10.4"/>
+	<rdf:type rdf:resource="&acmccs98;#I.3.3.3"/>
+	<rdf:type rdf:resource="&acmccs98;#I.3.5.3"/>
+	<rdf:type rdf:resource="&acmccs98;#I.3.6.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C93">
+	<rdf:type rdf:resource="&acmccs98;#D.2.2.0"/>
+	<rdf:type rdf:resource="&acmccs98;#K.6.1.5"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C94">
+	<rdf:type rdf:resource="&acmccs98;#H.5.2.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C95">
+	<rdf:type rdf:resource="&acmccs98;#A.0.1"/>
+	<rdf:type rdf:resource="&acmccs98;#K.3.2.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C96">
+	<rdf:type rdf:resource="&acmccs98;#H.3.7.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C97">
+	<rdf:type rdf:resource="&acmccs98;#H.1.2.0"/>
+	<rdf:type rdf:resource="&acmccs98;#H.5.2.7"/>
+	<rdf:type rdf:resource="&acmccs98;#I.2.1.5"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C98">
+	<rdf:type rdf:resource="&acmccs98;#C.2.1.8"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C99">
+	<rdf:type rdf:resource="&acmccs98;#H.5.2.7"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C100">
+	<rdf:type rdf:resource="&acmccs98;#F.2.2.2"/>
+	<rdf:type rdf:resource="&acmccs98;#I.2.11.1"/>
+	<rdf:type rdf:resource="&acmccs98;#I.5.1.2"/>
+	<rdf:type rdf:resource="&acmccs98;#I.5.2.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C101">
+	<rdf:type rdf:resource="&acmccs98;#C.2.0.2"/>
+	<rdf:type rdf:resource="&acmccs98;#C.3.4"/>
+	<rdf:type rdf:resource="&acmccs98;#D.4.6.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C102">
+	<rdf:type rdf:resource="&acmccs98;#A.0.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C103">
+	<rdf:type rdf:resource="&acmccs98;#K.3.2.3"/>
+	<rdf:type rdf:resource="&acmccs98;#B.1.2.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C105">
+	<rdf:type rdf:resource="&acmccs98;#C.2.1.8"/>
+	<rdf:type rdf:resource="&acmccs98;#C.4.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C106">
+	<rdf:type rdf:resource="&acmccs98;#H.2.1.0"/>
+	<rdf:type rdf:resource="&acmccs98;#H.2.4.9"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C109">
+	<rdf:type rdf:resource="&acmccs98;#D.2.4.6"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C110">
+	<rdf:type rdf:resource="&acmccs98;#D.2.11.1"/>
+	<rdf:type rdf:resource="&acmccs98;#C.2.4.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C111">
+	<rdf:type rdf:resource="&acmccs98;#H.5.1.3"/>
+	<rdf:type rdf:resource="&acmccs98;#H.5.2.7"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C112">
+	<rdf:type rdf:resource="&acmccs98;#B.3.2.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C113">
+	<rdf:type rdf:resource="&acmccs98;#C.2.3.0"/>
+	<rdf:type rdf:resource="&acmccs98;#C.2.1.6"/>
+</rdf:Description>
+
+</rdf:RDF>

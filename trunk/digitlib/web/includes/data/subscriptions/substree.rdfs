@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE rdf:RDF [
+		<!ENTITY base "http://localhost/digitlib/data/">
+		<!ENTITY substree "&base;substree.rdfs#">
+]>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+xml:base="&base;substree.rdfs#">
+
+<rdfs:Class rdf:ID="subs">
+     <rdfs:isDefinedBy rdf:resource="&substree;"/>
+  <rdfs:label>Subscription Representant</rdfs:label>
+  <rdfs:comment>The subcription in a tree class</rdfs:comment>
+</rdfs:Class>
+
+<rdfs:Property rdf:ID="vocname">
+	<rdfs:domain  rdf:resource="#subs"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="content">
+	<rdfs:domain  rdf:resource="#subs"/>
+	<rdfs:range rdf:resource="rdf:Seq"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="usersubs">
+	<rdfs:domain  rdf:resource="#subs"/>
+	<rdfs:range rdf:resource="rdf:Seq"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="state">
+	<rdfs:domain  rdf:resource="#subs"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+
+</rdf:RDF>

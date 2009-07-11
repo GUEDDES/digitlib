@@ -1,0 +1,15 @@
+******************************
+* JspSqlMyAdmin: Version 1.0 *
+******************************
+
+This directory is not yet needed by the application.
+A future version should support many languages,at least
+french,english and german.It is included in the distribution
+to make it easy for users to update the application and to
+be consistent with future versions.
+
+
+Regards,
+
+Serge M. Tsafak (tsafserge2001@yahoo.fr)
+JspSqlMyAdmin Project Developer

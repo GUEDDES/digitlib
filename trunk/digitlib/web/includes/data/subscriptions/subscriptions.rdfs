@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE rdf:RDF [
+		<!ENTITY base "http://localhost/digitlib/data/">
+		<!ENTITY subscription "&base;subscriptions.rdfs#">
+        <!ENTITY subtree "&base;substree.rdfs#">
+]>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+xml:base="&base;subscriptions.rdfs#">
+
+<rdfs:Class rdf:ID="subscrip">
+     <rdfs:isDefinedBy rdf:resource="&subscription;"/>
+  <rdfs:label>Document</rdfs:label>
+  <rdfs:comment>The subcription class</rdfs:comment>
+</rdfs:Class>
+
+<rdfs:Property rdf:ID="vocname">
+	<rdfs:domain  rdf:resource="#subscrip"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="content">
+	<rdfs:domain  rdf:resource="#subscrip"/>
+	<rdfs:range rdf:resource="&subtree;"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="nature">
+	<rdfs:domain  rdf:resource="#subscrip"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="submitter">
+	<rdfs:domain  rdf:resource="#subscrip"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="state">
+	<rdfs:domain  rdf:resource="#subscrip"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="parentname">
+	<rdfs:domain  rdf:resource="#subscrip"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+
+</rdf:RDF>

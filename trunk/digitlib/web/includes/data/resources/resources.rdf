@@ -1,0 +1,3172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rdf:RDF [
+	<!ENTITY base "http://localhost/digitlib/data/">
+	<!ENTITY acmccs98 "http://www.acm.org/class/1998">
+]>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:voc="&base;vocabularies.rdfs#"
+	xmlns:acmccs98="&acmccs98;#"
+	xmlns:res="&base;resources.rdfs#"
+	xml:base="&base;description.rdf#">
+
+
+<rdf:Description rdf:ID="C1">
+	<rdf:type rdf:resource="&acmccs98;#I.6.5.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C3">
+	<rdf:type rdf:resource="&acmccs98;#J.3.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C4">
+	<rdf:type rdf:resource="&acmccs98;#D.1.3.1"/>
+	<rdf:type rdf:resource="&acmccs98;#C.1.2.7"/>
+	<rdf:type rdf:resource="&acmccs98;#D.2.2.8"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C5">
+	<rdf:type rdf:resource="&acmccs98;#D.2.0.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C6">
+	<rdf:type rdf:resource="&acmccs98;#E.4.0"/>
+	<rdf:type rdf:resource="&acmccs98;#H.3.3.5"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C7">
+	<rdf:type rdf:resource="&acmccs98;#K.3.2.1"/>
+	<rdf:type rdf:resource="&acmccs98;#H.3.5.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C9">
+	<rdf:type rdf:resource="&acmccs98;#B.4.3.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C10">
+	<rdf:type rdf:resource="&acmccs98;#E.1.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C11">
+	<rdf:type rdf:resource="&acmccs98;#J.1.1"/>
+	<rdf:type rdf:resource="&acmccs98;#G.1.3.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C12">
+	<rdf:type rdf:resource="&acmccs98;#J.5.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C13">
+	<rdf:type rdf:resource="&acmccs98;#K.6.3.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C14">
+	<rdf:type rdf:resource="&acmccs98;#G.2.1.3"/>
+	<rdf:type rdf:resource="&acmccs98;#G.4.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C15">
+	<rdf:type rdf:resource="&acmccs98;#F.1.2.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C16">
+	<rdf:type rdf:resource="&acmccs98;#D.4.1.3"/>
+	<rdf:type rdf:resource="&acmccs98;#C.2.4"/>
+	<rdf:type rdf:resource="&acmccs98;#G.2.2.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C17">
+	<rdf:type rdf:resource="&acmccs98;#F.3.1.0"/>
+	<rdf:type rdf:resource="&acmccs98;#F.4.1.7"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C18">
+	<rdf:type rdf:resource="&acmccs98;#J.1.1"/>
+	<rdf:type rdf:resource="&acmccs98;#C.2.0.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C19">
+	<rdf:type rdf:resource="&acmccs98;#C.2.3.0"/>
+	<rdf:type rdf:resource="&acmccs98;#C.2.3.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C20">
+	<rdf:type rdf:resource="&acmccs98;#D.4.6.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C21">
+	<rdf:type rdf:resource="&acmccs98;#D.4.3.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C22">
+	<rdf:type rdf:resource="&acmccs98;#B.1.2.2"/>
+	<rdf:type rdf:resource="&acmccs98;#B.1.4.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C25">
+	<rdf:type rdf:resource="&acmccs98;#I.2.6.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C27">
+	<rdf:type rdf:resource="&acmccs98;#H.1.2.0"/>
+	<rdf:type rdf:resource="&acmccs98;#I.2.4.5"/>
+	<rdf:type rdf:resource="&acmccs98;#I.3.6.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C28">
+	<rdf:type rdf:resource="&acmccs98;#H.3.3.4"/>
+	<rdf:type rdf:resource="&acmccs98;#H.5.1.2"/>
+	<rdf:type rdf:resource="&acmccs98;#H.5.2.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C29">
+	<rdf:type rdf:resource="&acmccs98;#F.2.2.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C30">
+	<rdf:type rdf:resource="&acmccs98;#H.5.1.1"/>
+	<rdf:type rdf:resource="&acmccs98;#I.3.7.6"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C32">
+	<rdf:type rdf:resource="&acmccs98;#C.2.1.10"/>
+	<rdf:type rdf:resource="&acmccs98;#C.2.1.6"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C33">
+	<rdf:type rdf:resource="&acmccs98;#I.2.7.6"/>
+	<rdf:type rdf:resource="&acmccs98;#G.3.7"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C34">
+	<rdf:type rdf:resource="&acmccs98;#F.3.1.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C35">
+	<rdf:type rdf:resource="&acmccs98;#J.1.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C36">
+	<rdf:type rdf:resource="&acmccs98;#F.2.2.2"/>
+	<rdf:type rdf:resource="&acmccs98;#B.7.1.7"/>
+	<rdf:type rdf:resource="&acmccs98;#B.7.2.1"/>
+	<rdf:type rdf:resource="&acmccs98;#G.2.2.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C38">
+	<rdf:type rdf:resource="&acmccs98;#I.7.2.1"/>
+	<rdf:type rdf:resource="&acmccs98;#I.7.2.7"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C39">
+	<rdf:type rdf:resource="&acmccs98;#F.3.1.0"/>
+	<rdf:type rdf:resource="&acmccs98;#D.3.2.0"/>
+	<rdf:type rdf:resource="&acmccs98;#I.1.1.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C42">
+	<rdf:type rdf:resource="&acmccs98;#J.3.1"/>
+	<rdf:type rdf:resource="&acmccs98;#I.2.1.4"/>
+	<rdf:type rdf:resource="&acmccs98;#I.2.6.2"/>
+	<rdf:type rdf:resource="&acmccs98;#I.5.2.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C44">
+	<rdf:type rdf:resource="&acmccs98;#J.1.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C45">
+	<rdf:type rdf:resource="&acmccs98;#F.3.3.4"/>
+	<rdf:type rdf:resource="&acmccs98;#D.3.3.14"/>
+	<rdf:type rdf:resource="&acmccs98;#F.3.2.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C46">
+	<rdf:type rdf:resource="&acmccs98;#G.1.0.2"/>
+	<rdf:type rdf:resource="&acmccs98;#G.1.0.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C47">
+	<rdf:type rdf:resource="&acmccs98;#C.2.1.10"/>
+	<rdf:type rdf:resource="&acmccs98;#C.2.1.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C48">
+	<rdf:type rdf:resource="&acmccs98;#C.2.4.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C49">
+	<rdf:type rdf:resource="&acmccs98;#D.2.9.1"/>
+	<rdf:type rdf:resource="&acmccs98;#K.6.3.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C50">
+	<rdf:type rdf:resource="&acmccs98;#I.1.3.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C51">
+	<rdf:type rdf:resource="&acmccs98;#B.7.1.7"/>
+	<rdf:type rdf:resource="&acmccs98;#F.1.2.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C52">
+	<rdf:type rdf:resource="&acmccs98;#K.3.2.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C53">
+	<rdf:type rdf:resource="&acmccs98;#H.3.3.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C54">
+	<rdf:type rdf:resource="&acmccs98;#F.2.2.1"/>
+	<rdf:type rdf:resource="&acmccs98;#F.2.2.2"/>
+	<rdf:type rdf:resource="&acmccs98;#E.1.6"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C56">
+	<rdf:type rdf:resource="&acmccs98;#B.7.1.5"/>
+	<rdf:type rdf:resource="&acmccs98;#B.7.1.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C57">
+	<rdf:type rdf:resource="&acmccs98;#I.2.5.0"/>
+	<rdf:type rdf:resource="&acmccs98;#H.4.2.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C59">
+	<rdf:type rdf:resource="&acmccs98;#B.7.1.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C60">
+	<rdf:type rdf:resource="&acmccs98;#D.2.2.12"/>
+	<rdf:type rdf:resource="&acmccs98;#I.3.7.6"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C61">
+	<rdf:type rdf:resource="&acmccs98;#J.3.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C62">
+	<rdf:type rdf:resource="&acmccs98;#G.3.13"/>
+	<rdf:type rdf:resource="&acmccs98;#H.3.4.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C63">
+	<rdf:type rdf:resource="&acmccs98;#C.2.0.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C64">
+	<rdf:type rdf:resource="&acmccs98;#H.2.4.5"/>
+	<rdf:type rdf:resource="&acmccs98;#H.2.1.0"/>
+	<rdf:type rdf:resource="&acmccs98;#H.3.3.2"/>
+	<rdf:type rdf:resource="&acmccs98;#H.3.4.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C65">
+	<rdf:type rdf:resource="&acmccs98;#C.2.3.0"/>
+	<rdf:type rdf:resource="&acmccs98;#F.2.2.5"/>
+	<rdf:type rdf:resource="&acmccs98;#I.2.11.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C66">
+	<rdf:type rdf:resource="&acmccs98;#D.4.7.3"/>
+	<rdf:type rdf:resource="&acmccs98;#D.4.7.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C67">
+	<rdf:type rdf:resource="&acmccs98;#J.5.1"/>
+	<rdf:type rdf:resource="&acmccs98;#I.3.5.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C68">
+	<rdf:type rdf:resource="&acmccs98;#H.2.1.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C70">
+	<rdf:type rdf:resource="&acmccs98;#K.1.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C72">
+	<rdf:type rdf:resource="&acmccs98;#G.1.6.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C73">
+	<rdf:type rdf:resource="&acmccs98;#H.1.2.0"/>
+	<rdf:type rdf:resource="&acmccs98;#H.3.3.2"/>
+	<rdf:type rdf:resource="&acmccs98;#I.3.6.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C74">
+	<rdf:type rdf:resource="&acmccs98;#F.2.2.4"/>
+	<rdf:type rdf:resource="&acmccs98;#B.7.1.4"/>
+	<rdf:type rdf:resource="&acmccs98;#B.7.2.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C76">
+	<rdf:type rdf:resource="&acmccs98;#D.2.6.1"/>
+	<rdf:type rdf:resource="&acmccs98;#D.3.2.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C77">
+	<rdf:type rdf:resource="&acmccs98;#F.2.2.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C79">
+	<rdf:type rdf:resource="&acmccs98;#J.6.0"/>
+	<rdf:type rdf:resource="&acmccs98;#B.1.2.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C80">
+	<rdf:type rdf:resource="&acmccs98;#D.4.5.0"/>
+	<rdf:type rdf:resource="&acmccs98;#D.4.8.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C81">
+	<rdf:type rdf:resource="&acmccs98;#I.2.7.5"/>
+	<rdf:type rdf:resource="&acmccs98;#H.5.2.8"/>
+	<rdf:type rdf:resource="&acmccs98;#I.2.1.5"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C82">
+	<rdf:type rdf:resource="&acmccs98;#I.3.7.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C83">
+	<rdf:type rdf:resource="&acmccs98;#D.4.7.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C84">
+	<rdf:type rdf:resource="&acmccs98;#H.4.2.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C86">
+	<rdf:type rdf:resource="&acmccs98;#H.3.3.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C88">
+	<rdf:type rdf:resource="&acmccs98;#H.2.4.5"/>
+	<rdf:type rdf:resource="&acmccs98;#I.1.2.1"/>
+	<rdf:type rdf:resource="&acmccs98;#I.2.0.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C90">
+	<rdf:type rdf:resource="&acmccs98;#C.1.4.1"/>
+	<rdf:type rdf:resource="&acmccs98;#C.2.1.3"/>
+	<rdf:type rdf:resource="&acmccs98;#H.5.1.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C91">
+	<rdf:type rdf:resource="&acmccs98;#I.3.5.2"/>
+	<rdf:type rdf:resource="&acmccs98;#I.2.10.4"/>
+	<rdf:type rdf:resource="&acmccs98;#I.3.3.3"/>
+	<rdf:type rdf:resource="&acmccs98;#I.3.5.3"/>
+	<rdf:type rdf:resource="&acmccs98;#I.3.6.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C93">
+	<rdf:type rdf:resource="&acmccs98;#D.2.2.0"/>
+	<rdf:type rdf:resource="&acmccs98;#K.6.1.5"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C94">
+	<rdf:type rdf:resource="&acmccs98;#H.5.2.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C95">
+	<rdf:type rdf:resource="&acmccs98;#A.0.1"/>
+	<rdf:type rdf:resource="&acmccs98;#K.3.2.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C96">
+	<rdf:type rdf:resource="&acmccs98;#H.3.7.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C97">
+	<rdf:type rdf:resource="&acmccs98;#H.1.2.0"/>
+	<rdf:type rdf:resource="&acmccs98;#H.5.2.7"/>
+	<rdf:type rdf:resource="&acmccs98;#I.2.1.5"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C98">
+	<rdf:type rdf:resource="&acmccs98;#C.2.1.8"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C99">
+	<rdf:type rdf:resource="&acmccs98;#H.5.2.7"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C100">
+	<rdf:type rdf:resource="&acmccs98;#F.2.2.2"/>
+	<rdf:type rdf:resource="&acmccs98;#I.2.11.1"/>
+	<rdf:type rdf:resource="&acmccs98;#I.5.1.2"/>
+	<rdf:type rdf:resource="&acmccs98;#I.5.2.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C101">
+	<rdf:type rdf:resource="&acmccs98;#C.2.0.2"/>
+	<rdf:type rdf:resource="&acmccs98;#C.3.4"/>
+	<rdf:type rdf:resource="&acmccs98;#D.4.6.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C102">
+	<rdf:type rdf:resource="&acmccs98;#A.0.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C103">
+	<rdf:type rdf:resource="&acmccs98;#K.3.2.3"/>
+	<rdf:type rdf:resource="&acmccs98;#B.1.2.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C105">
+	<rdf:type rdf:resource="&acmccs98;#C.2.1.8"/>
+	<rdf:type rdf:resource="&acmccs98;#C.4.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C106">
+	<rdf:type rdf:resource="&acmccs98;#H.2.1.0"/>
+	<rdf:type rdf:resource="&acmccs98;#H.2.4.9"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C109">
+	<rdf:type rdf:resource="&acmccs98;#D.2.4.6"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C110">
+	<rdf:type rdf:resource="&acmccs98;#D.2.11.1"/>
+	<rdf:type rdf:resource="&acmccs98;#C.2.4.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C111">
+	<rdf:type rdf:resource="&acmccs98;#H.5.1.3"/>
+	<rdf:type rdf:resource="&acmccs98;#H.5.2.7"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C112">
+	<rdf:type rdf:resource="&acmccs98;#B.3.2.0"/>
+</rdf:Description>
+
+<rdf:Description rdf:ID="C113">
+	<rdf:type rdf:resource="&acmccs98;#C.2.3.0"/>
+	<rdf:type rdf:resource="&acmccs98;#C.2.1.6"/>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=800227.806894&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Some contrasts and considerations of an approach to modelling</res:title>
+ 	<res:author>Martin S. Feather</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C1"/>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1017973.1017985&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Linux for suits: bridging the gap</res:title>
+ 	<res:author>Doc Searls</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Html</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1031171.1031197&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Protein structure alignment using geometrical features</res:title>
+ 	<res:author>S. Alireza Aghili</res:author>
+ 	<res:author>Divyakant Agrawal</res:author>
+ 	<res:author>Amr El Abbadi</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=582034.582061&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>ORT: a communication library for orthogonal processor groups</res:title>
+ 	<res:author>Thomas Rauber</res:author>
+ 	<res:author>Robert Reilein</res:author>
+ 	<res:author>Gudula R&amp;amp;#252;nger</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=288195.288251&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Formal modeling and analysis of the HLA component integration standard</res:title>
+ 	<res:author>Robert J. Allen</res:author>
+ 	<res:author>David Garlan</res:author>
+ 	<res:author>James Ivers</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=568727.568730&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>A general-purpose compression scheme for large collections</res:title>
+ 	<res:author>Adam Cannane</res:author>
+ 	<res:author>Hugh E. Williams</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1400549.1400652&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Texture management in view dependent application for large 3D terrain visualization</res:title>
+ 	<res:author>Renato M. Okamoto</res:author>
+ 	<res:author>Fl&amp;amp;#225;vio L. de Mello</res:author>
+ 	<res:author>Claudio Esperan&amp;amp;#231;a</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1181849.1181852&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>A course in web programming</res:title>
+ 	<res:author>Robert E. Noonan</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C7"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=334714.334717&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Generating numerical ODE formulas via a symbolic calculus of divided differences</res:title>
+ 	<res:author>K. O. Geddes</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=17701.255320&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>An SQL interface for VS APL</res:title>
+ 	<res:author>Casey Bley</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1120212.1120249&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Displayless interface access to spatial data: effects on speaker prosodics</res:title>
+ 	<res:author>Julie Baca</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=259380.259438&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>The complexity of crash failures</res:title>
+ 	<res:author>Mahesh Jayaram</res:author>
+ 	<res:author>George Varghese</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C9"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=967900.967990&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Protected transmission of biometric user authentication data for oncard-matching</res:title>
+ 	<res:author>Ulrich Waldmann</res:author>
+ 	<res:author>Dirk Scheuermann</res:author>
+ 	<res:author>Claudia Eckert</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=509907.509928&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Improved decremental algorithms for maintaining transitive closure and all-pairs shortest paths</res:title>
+ 	<res:author>Surender Baswana</res:author>
+ 	<res:author>Ramesh Hariharan</res:author>
+ 	<res:author>Sandeep Sen</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C10"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=365559.365623&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>UPLIFTS&amp;amp;mdash;University of Pittsburgh linear file tandem system</res:title>
+ 	<res:author>J. D. Canter</res:author>
+ 	<res:author>C. E. Donaghey</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C11"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=280953.281416&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Split personality</res:title>
+ 	<res:author>Daniel Sergile</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C12"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=998675.999485&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Balancing Agility and Discipline: Evaluating and Integrating Agile and Plan-Driven Methods</res:title>
+ 	<res:author>Barry Boehm</res:author>
+ 	<res:author>Richard Turner</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C13"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=130933.130935&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>An analysis of Atkinson's algorithm</res:title>
+ 	<res:author>Greg Butler</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C14"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=339492.339609&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Concurrent D-algorithm on reconfigurable hardware</res:title>
+ 	<res:author>Fatih Kocan</res:author>
+ 	<res:author>Daniel G. Saab</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C15"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=163640.163646&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Distributed algorithm for K-entries to critical section based on the directed graphs</res:title>
+ 	<res:author>Mohamed Naimi</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C16"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=286498.286532&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Interpreting eye movements with process models</res:title>
+ 	<res:author>Dario D. Salvucci</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=800116.803758&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Proving assertions about programs that manipulate data structures</res:title>
+ 	<res:author>Derek C. Oppen</res:author>
+ 	<res:author>Stephen A. Cook</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C17"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=93335.93363&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>The light bulb problem</res:title>
+ 	<res:author>Ramanohan Paturi</res:author>
+ 	<res:author>Sanguthevar Rajasekaran</res:author>
+ 	<res:author>John Reif</res:author>
+ 	<res:language>english</res:language>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1006259.1006272&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>A study in prototyping</res:title>
+ 	<res:author>N. H. Gehani</res:author>
+ 	<res:language>english</res:language>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=962070&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Ubiquity: Volume 4 Issue 40</res:title>
+ 	<res:language>english</res:language>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=219894.223018&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Microcomputer network services come of age</res:title>
+ 	<res:author>Wayne Hauber</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C18"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=130893.130898&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>What you see is what I think you see</res:title>
+ 	<res:author>Randall B. Smith</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=503643.503706&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Two-level control of a real-time data acquisition and control system for studying the electrical activity of the heart</res:title>
+ 	<res:author>R. C. Barr</res:author>
+ 	<res:author>G. S. Herman-Giddens</res:author>
+ 	<res:author>R. B. Warren</res:author>
+ 	<res:author>M. S. Spach</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1378727.1378749&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Distributed selection: a missing piece of data aggregation</res:title>
+ 	<res:author>Fabian Kuhn</res:author>
+ 	<res:author>Thomas Locher</res:author>
+ 	<res:author>Roger Wattenhofer</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Digital Edition</res:format>
+ 	<res:format>Html</res:format>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=977035.977044&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Chinese numbers, MIX, scrambling, and range concatenation grammars</res:title>
+ 	<res:author>Pierre Boullier</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Publisher Site</res:format>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1134680.1134682&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Enhancing the security of corporate Wi-Fi networks using DAIR</res:title>
+ 	<res:author>Paramvir Bahl</res:author>
+ 	<res:author>Ranveer Chandra</res:author>
+ 	<res:author>Jitendra Padhye</res:author>
+ 	<res:author>Lenin Ravindranath</res:author>
+ 	<res:author>Manpreet Singh</res:author>
+ 	<res:author>Alec Wolman</res:author>
+ 	<res:author>Brian Zill</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C19"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=327937.327961&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Extending the Bash Prompt</res:title>
+ 	<res:author>Giles Orr</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Html</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=24592.24594&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Efficient and timely mutual authentication</res:title>
+ 	<res:author>Dave Otway</res:author>
+ 	<res:author>Owen Rees</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C20"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1062745.1062934&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>One project, four schema languages: medley or melee?</res:title>
+ 	<res:author>Makoto Murata</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=822085.823304&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>A Monitoring Sensor Management System for Grid Environments</res:title>
+ 	<res:author>Brian Tierney</res:author>
+ 	<res:author>Brian Crowley</res:author>
+ 	<res:author>Dan Gunter</res:author>
+ 	<res:author>Mason Holding</res:author>
+ 	<res:author>Jason Lee</res:author>
+ 	<res:author>Mary Thompson</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Publisher Site</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=545197.545200&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>A PDP-8 emulator program</res:title>
+ 	<res:author>Brian J. Shelburne</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=320251.320256&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Data file management in shift-register memories</res:title>
+ 	<res:author>Werner E. Kluge</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C21"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=587425&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>ACM SIGAPL APL Quote Quad: Volume 14 Issue 3</res:title>
+ 	<res:language>english</res:language>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=581199.581238&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Virtual synchronization for fast distributed cosimulation of dataflow task graphs</res:title>
+ 	<res:author>Dohyung Kim</res:author>
+ 	<res:author>Chan-Eun Rhee</res:author>
+ 	<res:author>Youngmin Yi</res:author>
+ 	<res:author>Sungchan Kim</res:author>
+ 	<res:author>Hyunguk Jung</res:author>
+ 	<res:author>Soonhoi Ha</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C22"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=993268.993296&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Building knowledge bases for the generation of software documentation</res:title>
+ 	<res:author>C&amp;amp;#233;cile Paris</res:author>
+ 	<res:author>Keith Vander Linden</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=985135&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Proceedings of the 2001 international workshop on Multimedia middleware</res:title>
+ 	<res:author>Nicolas D. Georganas</res:author>
+ 	<res:author>Radu Popescu-Zeletin</res:author>
+ 	<res:author>Tzi-cker Chiueh</res:author>
+ 	<res:author>Wolfgang Klas</res:author>
+ 	<res:author>Aidong Zhang</res:author>
+ 	<res:author>Vincent Oria</res:author>
+ 	<res:language>english</res:language>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1075812.1075847&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Session summary</res:title>
+ 	<res:author>Paul S. Jacobs</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=800117.803811&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Two methods of using APL in the teaching of probability and statistics</res:title>
+ 	<res:author>U. M. von Maydell</res:author>
+ 	<res:author>K. W. Smillie</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C25"/>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=22627.22341&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Graphic interfaces for knowledge-based system development</res:title>
+ 	<res:author>S. E. Poltrock</res:author>
+ 	<res:author>D. D. Steiner</res:author>
+ 	<res:author>P. N. Tarlton</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C27"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=275519.275525&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Visualization is a state of mind</res:title>
+ 	<res:author>Maarten van Dantzich</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+ 	<res:format>Ps</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C28"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=357332.357333&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>A New Concept and Method for Line Clipping</res:title>
+ 	<res:author>B. A. Barsky</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C29"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=323663.323695&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Subjectivity and the relaxing of synchronization in networked virtual environments</res:title>
+ 	<res:author>Steve Pettifer</res:author>
+ 	<res:author>Adrian West</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C30"/>
+</rdf:Description>
+
+
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1298091.1298120&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>An adaptive gateway discovery for mobile ad hoc networks</res:title>
+ 	<res:author>Antonio J. Yuste</res:author>
+ 	<res:author>Francisco David Trujillo</res:author>
+ 	<res:author>Alicia Trivi&amp;amp;#241;o</res:author>
+ 	<res:author>Eduardo Casilari</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C32"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=368959.368993&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>On ambiguity in phrase structure languages</res:title>
+ 	<res:author>Robert W. Floyd</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=979872.979879&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Rapid development of Hindi named entity recognition using conditional random fields and feature induction</res:title>
+ 	<res:author>Wei Li</res:author>
+ 	<res:author>Andrew McCallum</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C33"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1119018.1119030&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>The Lockheed Martin TIPSTER II project</res:title>
+ 	<res:author>Steven Maiorano</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1321211.1321241&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Support for OpenMP tasks in Nanos v4</res:title>
+ 	<res:author>Xavier Teruel</res:author>
+ 	<res:author>Xavier Martorell</res:author>
+ 	<res:author>Alejandro Duran</res:author>
+ 	<res:author>Roger Ferrer</res:author>
+ 	<res:author>Eduard Ayguad&amp;amp;#233;</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1117856.1117863&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Terminological variants for document selection and question/answer matching</res:title>
+ 	<res:author>Olivier Ferret</res:author>
+ 	<res:author>Brigitte Grau</res:author>
+ 	<res:author>Martine Hurault-Plantet</res:author>
+ 	<res:author>Gabriel Illouz</res:author>
+ 	<res:author>Christian Jacquemin</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1113439.1113447&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Rational and replacement invariants of a group action</res:title>
+ 	<res:author>Evelyne Hubert</res:author>
+ 	<res:author>Irina Kogan</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C34"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=332051.332063&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Enterprise resource planning: introduction</res:title>
+ 	<res:author>Kuldeep Kumar</res:author>
+ 	<res:author>Jos van Hillegersberg</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Html</res:format>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C35"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1344671.1344727&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Fpga-based data acquisition system for a positron emission tomography (PET) scanner</res:title>
+ 	<res:author>Michael Haselman</res:author>
+ 	<res:author>Robert Miyaoka</res:author>
+ 	<res:author>Thomas K. Lewellen</res:author>
+ 	<res:author>Scott Hauck</res:author>
+ 	<res:language>english</res:language>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=800114.803669&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Hierarchical data management</res:title>
+ 	<res:author>Jan M. Engel</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1082473.1082707&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>The DEFACTO system for human omnipresence to coordinate agent teams: the future of disaster response</res:title>
+ 	<res:author>Nathan Schurr</res:author>
+ 	<res:author>J. Marecki</res:author>
+ 	<res:author>N. Kasinadhuni</res:author>
+ 	<res:author>M. Tambe</res:author>
+ 	<res:author>J. P. Lewis</res:author>
+ 	<res:author>Paul Scerri</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=506320.506332&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>A new usability standard and what it means to you</res:title>
+ 	<res:author>Jean Scholtz</res:author>
+ 	<res:author>Emile Morse</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1185448.1185611&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Design, development and usage of a generic job submission grid service</res:title>
+ 	<res:author>Enis Afgan</res:author>
+ 	<res:author>William T. Jones</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=509852.509873&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>O'Reilly show report, day one</res:title>
+ 	<res:author>Doc Searls</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Publisher Site</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=989341.989354&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Solution trees in the program design process</res:title>
+ 	<res:author>William J. Collins</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=827245.827324&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Design of a Classification System for Rectangular Shapes Using a Co-Design Environment</res:title>
+ 	<res:author>R. F. Molz</res:author>
+ 	<res:author>P. M. Engel</res:author>
+ 	<res:author>F. G. Moraes</res:author>
+ 	<res:author>L. Torres</res:author>
+ 	<res:author>M. Robert</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Publisher Site</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=220279.220335&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>An animated library of combinatorial VLSI-routing algorithms</res:title>
+ 	<res:author>Dorothea Wagner</res:author>
+ 	<res:author>Karsten Weihe</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C36"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=268437.268457&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Web-based simulation</res:title>
+ 	<res:author>Paul A. Fishwick</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1015601&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>ACM SIGCOMM Computer Communication Review: Volume 12 Issue 3-4</res:title>
+ 	<res:language>english</res:language>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1015330.1015383&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Kernel-based discriminative learning algorithms for labeling sequences, trees, and graphs</res:title>
+ 	<res:author>Hisashi Kashima</res:author>
+ 	<res:author>Yuta Tsuboi</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1166160.1166165&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Minimum sized text containment shapes</res:title>
+ 	<res:author>Nathan Hurst</res:author>
+ 	<res:author>Kim Marriott</res:author>
+ 	<res:author>Peter Moulder</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C38"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=564376.564497&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>GS textplorer -: adaptive framework for information retrieval</res:title>
+ 	<res:author>Jukka Honkela</res:author>
+ 	<res:author>Ville H. Tuulos</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=988641.988643&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Report on the first international computer film festival</res:title>
+ 	<res:author>Richard Speer</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=503720.503770&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Distributed data flow computing system</res:title>
+ 	<res:author>Edmund Gallizzi</res:author>
+ 	<res:author>Quinton Zondervan</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=800223.806774&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Proof-oriented and applicative valuations in definitions of algorithms</res:title>
+ 	<res:author>Michel Sintzoff</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C39"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1123196.1123293&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Supporting end-users of statistical information: the role of statistical metadata in the Statistical Knowledge Network</res:title>
+ 	<res:author>Carol A. Hert</res:author>
+ 	<res:author>Stephanie Haas</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=981175.981177&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>A compositional semantics of temporal expressions in English</res:title>
+ 	<res:author>Erhard W. Hinrichs</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Publisher Site</res:format>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=335603.335629&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Analyzing human gait patterns for malfunction detection</res:title>
+ 	<res:author>Monika K&amp;amp;#246;hle</res:author>
+ 	<res:author>Dieter Merkl</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C42"/>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1073368.1073408&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Behavior planning for character animation</res:title>
+ 	<res:author>Manfred Lau</res:author>
+ 	<res:author>James J. Kuffner</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=29264.29265&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>TIMELOG-an intelligent spreadsheet for school timetabling</res:title>
+ 	<res:author>Charles J. V. Murphy</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C44"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=182409.182485&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>A practical soft type system for Scheme</res:title>
+ 	<res:author>Andrew K. Wright</res:author>
+ 	<res:author>Robert Cartwright</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C45"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=782941.782992&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>'Laurel and Hardy' model for analyzing process synchronization algorithms and primitives</res:title>
+ 	<res:author>Mithun Acharya</res:author>
+ 	<res:author>Robert Funderlic</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=321796.321798&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Some a Posteriori Error Bounds in Floating-Point Computations</res:title>
+ 	<res:author>Nai-kuan Tsao</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C46"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=314500.314887&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Empirical investigation of the Markov reference model</res:title>
+ 	<res:author>Vincenzo Liberatore</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1189186.1189188&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Improved reuse partitioning and power control for downlink multi-cell OFDMA systems</res:title>
+ 	<res:author>Soumaya Hamouda</res:author>
+ 	<res:author>Sami Tabbane</res:author>
+ 	<res:author>Philippe Godlewski</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C47"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=990174.990210&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Adaptation of Montague Grammar to the requirements of question-answering</res:title>
+ 	<res:author>S. P. J. Landsbergen</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=949344.949440&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Using AspectJ for component integration in middleware</res:title>
+ 	<res:author>Adrian Colyer</res:author>
+ 	<res:author>Andy Clement</res:author>
+ 	<res:author>Ron Bodkin</res:author>
+ 	<res:author>Jim Hugunin</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C48"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1414004.1414040&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>A constrained regression technique for cocomo calibration</res:title>
+ 	<res:author>Vu Nguyen</res:author>
+ 	<res:author>Bert Steece</res:author>
+ 	<res:author>Barry Boehm</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C49"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1027411.1027412&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Editorial</res:title>
+ 	<res:author>John C. Hart</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=985921.986013&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Collections: flexible, essential tools for information management</res:title>
+ 	<res:author>David R. Karger</res:author>
+ 	<res:author>Dennis Quan</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=120694.120725&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>A deductive database of the groups of order dividing 128</res:title>
+ 	<res:author>Greg Butler</res:author>
+ 	<res:author>Sridhar S. Iyer</res:author>
+ 	<res:author>Susan H. Ley</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C50"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=266021.266174&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Statistical estimation of the cumulative distribution function for power dissipation in VLSI cirucits</res:title>
+ 	<res:author>Chih-Shun Ding</res:author>
+ 	<res:author>Qing Wu</res:author>
+ 	<res:author>Chen-Ta Hsieh</res:author>
+ 	<res:author>Massoud Pedram</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C51"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=382278.382393&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Designing new languages or new language manipulation systems using ML</res:title>
+ 	<res:author>P. Jouvelot</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=366604&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Communications of the ACM: Volume 6 Issue 6</res:title>
+ 	<res:author>C. C. Gotlieb</res:author>
+ 	<res:language>english</res:language>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=319568.319591&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>A collection of software tools for analyzing designs of concurrent software systems</res:title>
+ 	<res:author>Allan M. Stavely</res:author>
+ 	<res:author>David C. Becker</res:author>
+ 	<res:author>Susan P. Orr</res:author>
+ 	<res:author>Gregory B. Titus</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1135777.1135792&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Topical TrustRank: using topicality to combat web spam</res:title>
+ 	<res:author>Baoning Wu</res:author>
+ 	<res:author>Vinay Goel</res:author>
+ 	<res:author>Brian D. Davison</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1183236.1183260&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Introduction</res:title>
+ 	<res:author>Vijayan Sugumaran</res:author>
+ 	<res:author>Sooyong Park</res:author>
+ 	<res:author>Kyo C. Kang</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Html</res:format>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1089330.1089332&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Complex analysis in symbolic computing of some definite integrals</res:title>
+ 	<res:author>G. Belovari</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1066677.1066892&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Heuristic methods for graph coloring problems</res:title>
+ 	<res:author>A. Lim</res:author>
+ 	<res:author>Y. Zhu</res:author>
+ 	<res:author>Q. Lou</res:author>
+ 	<res:author>B. Rodrigues</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=323287.323307&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Personal student workstations: prospectus and requirements</res:title>
+ 	<res:author>Leslie J. Waguespack, Jr.</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C52"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1390334.1390561&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Fine-grained relevance feedback for XML retrieval</res:title>
+ 	<res:author>Hanglin Pan</res:author>
+ 	<res:author>Ralf Schenkel</res:author>
+ 	<res:author>Gerhard Weikum</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C53"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=777792.777795&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Euclidean bounded-degree spanning tree ratios</res:title>
+ 	<res:author>Timothy M. Chan</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C54"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1329125.1329448&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>WS-agreement based resource negotiation in AgentScape</res:title>
+ 	<res:author>M. A. Oey</res:author>
+ 	<res:author>R. J. Timmer</res:author>
+ 	<res:author>D. G. A. Mobach</res:author>
+ 	<res:author>B. J. Overeinder</res:author>
+ 	<res:author>F. M. T. Brazier</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=348120&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Linux Journal: Volume 2000 Issue 70es</res:title>
+ 	<res:author>Linux Journal Staff</res:author>
+ 	<res:language>english</res:language>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1127908.1127910&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>From single core to multi-core to many core: are we ready for a new exponential?</res:title>
+ 	<res:author>Jeff Parkhurst</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C56"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=509593.509594&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>The effects of communication parameters on end performance of shared virtual memory clusters</res:title>
+ 	<res:author>Angelos Bilas</res:author>
+ 	<res:author>Jaswinder Pal Singh</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=800013.809506&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Framework of the decision support expert systems</res:title>
+ 	<res:author>Pawel Radzikowski</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C57"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1044744&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>ACM SIGOPS Operating Systems Review: Volume 11 Issue 1</res:title>
+ 	<res:language>english</res:language>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=217278.217281&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>IFIP</res:title>
+ 	<res:author>Gordon B. Davis</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=800288.811211&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Managing simulation projects</res:title>
+ 	<res:author>Paul Gray</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1342211.1342213&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Testing evolving software: Current practice and future promise</res:title>
+ 	<res:author>Mary Jean Harrold</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=360128.360148&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>A static power model for architects</res:title>
+ 	<res:author>J. Adam Butts</res:author>
+ 	<res:author>Gurindar S. Sohi</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Publisher Site</res:format>
+ 	<res:format>Pdf</res:format>
+ 	<res:format>Ps</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C59"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=36111.1045600&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>ON-LINE DOCUMENTATION AND TUTORIALS FOR AN INTEGRATED GRAPHICAL AND DATA ANALYSIS SYSTEM</res:title>
+ 	<res:author>David M. Stein</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1075812.1075828&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Language modeling with sentence-level mixtures</res:title>
+ 	<res:author>Rukmini Iyer</res:author>
+ 	<res:author>Mari Ostendorf</res:author>
+ 	<res:author>J. Robin Rohlicek</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=217306.217318&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Bringing worlds together: adding multi-user support to VRML</res:title>
+ 	<res:author>Wolfgang Broll</res:author>
+ 	<res:author>David England</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C60"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1066677.1066882&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Efficient placement and routing in grid-based networks</res:title>
+ 	<res:author>Roozbeh Jafari</res:author>
+ 	<res:author>Foad Dabiri</res:author>
+ 	<res:author>Bo-Kyung Choi</res:author>
+ 	<res:author>Majid Sarrafzadeh</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1183568.1183576&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>A flexible approach for electronic medical records exchange</res:title>
+ 	<res:author>Vagelis Hristidis</res:author>
+ 	<res:author>Peter J. Clarke</res:author>
+ 	<res:author>Nagarajan Prabakar</res:author>
+ 	<res:author>Yi Deng</res:author>
+ 	<res:author>Jeffrey A. White</res:author>
+ 	<res:author>Redmond P. Burke</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C61"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=235767.571631&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>SICACT Treasurer's Report</res:title>
+ 	<res:author>Michael Luby</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=185057.1023826&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Development of A Video Database System</res:title>
+ 	<res:author>Hong Jiang Zhang</res:author>
+ 	<res:author>Stephen W . Smoliar</res:author>
+ 	<res:author>Jian Hua Wu</res:author>
+ 	<res:author>Chien Yong Low</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=800101.803259&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Standards in user education</res:title>
+ 	<res:author>Jane Baxter</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C62"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1323548.1323551&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Optimization of pattern matching algorithm for memory based architecture</res:title>
+ 	<res:author>Cheng-Hung Lin</res:author>
+ 	<res:author>Yu-Tang Tai</res:author>
+ 	<res:author>Shih-Chieh Chang</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C63"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1182635.1164208&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Containment of conjunctive object meta-queries</res:title>
+ 	<res:author>Andrea Cali</res:author>
+ 	<res:author>Michael Kifer</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C64"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=357980.358015&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Ethernet: distributed packet switching for local computer networks</res:title>
+ 	<res:author>Robert M. Metcalfe</res:author>
+ 	<res:author>David R. Boggs</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=952532.952535&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>A coarse-grain parallel genetic algorithm for finding Ramsey Numbers</res:title>
+ 	<res:author>Iker Gondra</res:author>
+ 	<res:author>Mansur H. Samadzadeh</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=357423.357426&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>An OIS model for internal accounting control evaluation</res:title>
+ 	<res:author>Andrew D. Bailey, Jr.</res:author>
+ 	<res:author>James H. Gerlach</res:author>
+ 	<res:author>R. Preston McAfee</res:author>
+ 	<res:author>Andrew B. Whinston</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=36072&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>ACM SIGAda Ada Letters: Volume VII Issue 7</res:title>
+ 	<res:author>Cammie Donaldson</res:author>
+ 	<res:language>english</res:language>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1238642.1238646&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Multi-agent radio resource allocation</res:title>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C65"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=800181.810333&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>SIGSAM 1-Symbolic mathematical systems (Part I)(Tutorial)</res:title>
+ 	<res:author>James H. Griesmer</res:author>
+ 	<res:author>Thomas J. Watson</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1255047.1255118&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Pileus: umbrella type entertainment browser</res:title>
+ 	<res:author>Sho Hashimoto</res:author>
+ 	<res:author>Takashi Matsumoto</res:author>
+ 	<res:author>Naohito Okude</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C66"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=73877.73881&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Fractals and an art for the sake of science</res:title>
+ 	<res:author>B.B. Mandelbrot</res:author>
+ 	<res:language>english</res:language>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C67"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1176878.1176879&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>eTuner: tuning schema matching software using synthetic scenarios</res:title>
+ 	<res:author>Yoonkyong Lee</res:author>
+ 	<res:author>Mayssam Sayyadian</res:author>
+ 	<res:author>AnHai Doan</res:author>
+ 	<res:author>Arnon S. Rosenthal</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C68"/>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=142016&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>ACM SIGAda Ada Letters: Volume XII Issue 6</res:title>
+ 	<res:author>Paul Baker</res:author>
+ 	<res:language>english</res:language>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=366274.366280&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Toward better documentation of programming languages: introduction</res:title>
+ 	<res:author>Victor H. Yngve</res:author>
+ 	<res:author>Jean E. Sammet</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=985608.985609&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Esther Dyson ... In focus</res:title>
+ 	<res:author>Esther Dyson</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Html</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C70"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1374512.1374516&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Guest editors' introduction</res:title>
+ 	<res:author>Paolo Penna</res:author>
+ 	<res:author>S. S. Ravi</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1068009.1068283&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Open-ended robust design of analog filters using genetic programming</res:title>
+ 	<res:author>Jianjun Hu</res:author>
+ 	<res:author>Xiwei Zhong</res:author>
+ 	<res:author>Erik D. Goodman</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C72"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=270985.332117&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Down the road: is something missing from your campus?</res:title>
+ 	<res:author>Thomas C. Waszak</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Html</res:format>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=997939.998013&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Morphological analysis and synthesis by automated discovery and acquisition of linguistic rules</res:title>
+ 	<res:author>Byoung-Tak Zhang</res:author>
+ 	<res:author>Yung-Taek Kim</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=42411.315803&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>ACM form</res:title>
+ 	<res:author>Robert L. Ashenhurst</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=67449.67518&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Helgon: extending the retrieval by reformulation paradigm</res:title>
+ 	<res:author>G. Fischer</res:author>
+ 	<res:author>H. Nieper-Lemke</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C73"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=288548.288590&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Optimal 2-D cell layout with integrated transistor folding</res:title>
+ 	<res:author>Avaneendra Gupta</res:author>
+ 	<res:author>John P. Hayes</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C74"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1282480.1282482&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Query-by-example: the invocation and definition of tables and forms</res:title>
+ 	<res:author>Mosh&amp;amp;#233; M. Zloof</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1291151.1291186&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Experience report: building an eclipse-based IDE for Haskell</res:title>
+ 	<res:author>Leif Frenzel</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C76"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=644108.644241&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Zonotopes as bounding volumes</res:title>
+ 	<res:author>Leonidas J. Guibas</res:author>
+ 	<res:author>An Nguyen</res:author>
+ 	<res:author>Li Zhang</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C77"/>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1390156.1390212&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Efficient bandit algorithms for online multiclass prediction</res:title>
+ 	<res:author>Sham M. Kakade</res:author>
+ 	<res:author>Shai Shalev-Shwartz</res:author>
+ 	<res:author>Ambuj Tewari</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=268437.268522&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Parallel simulation of TCP/IP using TeD</res:title>
+ 	<res:author>Brian J. Premore</res:author>
+ 	<res:author>David M. Nicol</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1450135.1450194&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Methodology for multi-granularity embedded processor power model generation for an ESL design flow</res:title>
+ 	<res:author>Young-Hwan Park</res:author>
+ 	<res:author>Sudeep Pasricha</res:author>
+ 	<res:author>Fadi J. Kurdahi</res:author>
+ 	<res:author>Nikil Dutt</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C79"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=844128.844155&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Pastiche: making backup cheap and easy</res:title>
+ 	<res:author>Landon P. Cox</res:author>
+ 	<res:author>Christopher D. Murray</res:author>
+ 	<res:author>Brian D. Noble</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C80"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=226650.570117&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Tools &amp;amp; Techniques in Visual Design Development: A CHI '95 Workshop</res:title>
+ 	<res:author>Loretta Staples</res:author>
+ 	<res:author>Dan Boyarski</res:author>
+ 	<res:author>Eviatar Shafrir</res:author>
+ 	<res:author>Peter Vanags</res:author>
+ 	<res:author>Annette Wagner</res:author>
+ 	<res:author>Linda Wall</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=360405.360432&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Universal commands for telephony-based spoken language systems</res:title>
+ 	<res:author>Mike Cohen</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C81"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1330598.1330684&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Using MS reporting services to promote reuse of learning objects</res:title>
+ 	<res:author>Valentina Terzieva</res:author>
+ 	<res:author>Katia Todorova</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=312379.312870&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Buzz off</res:title>
+ 	<res:author>Naoki Fujiwara</res:author>
+ 	<res:language>english</res:language>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C82"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1161135.1161147&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>A design framework for teaching/learning activities supporting Latino first graders' ten-structured thinking in urban classrooms</res:title>
+ 	<res:author>Karen C. Fuson</res:author>
+ 	<res:author>Steven T. Smith</res:author>
+ 	<res:author>Ana Maria Lo Cicero</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1435458.1435460&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Alternatives for scheduling virtual machines in real-time embedded systems</res:title>
+ 	<res:author>Robert Kaiser</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C83"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=800127.804114&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Extending The Power Of Decision Support Systems 1 And 2 (Panel Discussions)</res:title>
+ 	<res:author>Franz Edelman</res:author>
+ 	<res:author>Eric D. Carlson</res:author>
+ 	<res:author>Peter G. W. Keen</res:author>
+ 	<res:author>Andrew Vazsonyi</res:author>
+ 	<res:author>William A. Heuser</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C84"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=318123.318170&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Modeling and simulation applied to communications systems</res:title>
+ 	<res:author>William C. Cave</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=234313.234419&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Programming language semantics</res:title>
+ 	<res:author>David A. Schmidt</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1458082.1458230&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Multi-aspect expertise matching for review assignment</res:title>
+ 	<res:author>Maryam Karimzadehgan</res:author>
+ 	<res:author>ChengXiang Zhai</res:author>
+ 	<res:author>Geneva Belford</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C86"/>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=238061.238108&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Attribute-efficient learning in query and mistake-bound models</res:title>
+ 	<res:author>Nader H. Bshouty</res:author>
+ 	<res:author>Lisa Hellerstein</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C88"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1244002.1244111&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Incremental discretization, application to data with concept drift</res:title>
+ 	<res:author>Carlos Pinto</res:author>
+ 	<res:author>Joao Gama</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C1"/>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=634067.634247&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>In tent, in touch: beings in seclusion and in transit</res:title>
+ 	<res:author>John A Waterworth</res:author>
+ 	<res:author>Eva L Waterworth</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C90"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=318013.318112&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Knowledge-based optimal IIL generator from conventional logic circuit descriptions</res:title>
+ 	<res:author>T. Watanabe</res:author>
+ 	<res:author>T. Masuishi</res:author>
+ 	<res:author>T. Nishiyama</res:author>
+ 	<res:author>N. Horie</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=325334.325211&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Bintrees, CSG trees, and time</res:title>
+ 	<res:author>Hanan Samet</res:author>
+ 	<res:author>Markku Tamminen</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C91"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=224401.224807&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>After Action Review System (AARS) design and functional capabilities</res:title>
+ 	<res:author>Joseph W. Gibson</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C93"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1097111.1097391&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Ninth IEEE International Symposium on Distributed Simulation and Real-Time Applications - Copyright</res:title>
+ 	<res:language>english</res:language>
+ 	<res:format>Publisher Site</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=506218.506219&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Strategies for transitioning 'old economy' firms to e-business</res:title>
+ 	<res:author>Edieal J. Pinker</res:author>
+ 	<res:author>Abraham Seidmann</res:author>
+ 	<res:author>Reginald C. Foster</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Html</res:format>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1061098.1061109&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Circulation List</res:title>
+ 	<res:author>Peter Naur</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=328152.328164&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>The Cathedral and the Bazaar</res:title>
+ 	<res:author>Peter Salus</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Html</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1376616.1376765&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>A demonstration of Cascadia through a digital diary application</res:title>
+ 	<res:author>Nodira Khoussainova</res:author>
+ 	<res:author>Evan Welbourne</res:author>
+ 	<res:author>Magdalena Balazinska</res:author>
+ 	<res:author>Gaetano Borriello</res:author>
+ 	<res:author>Garrett Cole</res:author>
+ 	<res:author>Julie Letchner</res:author>
+ 	<res:author>Yang Li</res:author>
+ 	<res:author>Christopher R&amp;amp;#233;</res:author>
+ 	<res:author>Dan Suciu</res:author>
+ 	<res:author>Jordan Walke</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C94"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=126640.126663&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>A workshop on computer graphics for undergraduate faculty</res:title>
+ 	<res:author>G. Scott Owen</res:author>
+ 	<res:author>Valerie A. Miller</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C95"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1120725.1120977&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>A resource-shared VLIW processor architecture for area-efficient on-chip multiprocessing</res:title>
+ 	<res:author>Kazutoshi Kobayashi</res:author>
+ 	<res:author>Masao Aramoto</res:author>
+ 	<res:author>Yoichi Yuyama</res:author>
+ 	<res:author>Akihiko Higuchi</res:author>
+ 	<res:author>Hidetoshi Onodera</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=242224.242468&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>The pervasiveness of real-time computing</res:title>
+ 	<res:author>Jack Stankovic</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Html</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=374308.375358&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Uniform resource names: handles, PURLs, and digital object identifiers</res:title>
+ 	<res:author>William Y. Arms</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Html</res:format>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C96"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=259963.260416&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Surrogate users: mediating between social and technical interaction</res:title>
+ 	<res:author>Deborah Lawrence</res:author>
+ 	<res:author>Michael E. Atwood</res:author>
+ 	<res:author>Shelly Dews</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=800181.810357&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Principles of design in the octopus computer network</res:title>
+ 	<res:author>John G. Fletcher</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=257572&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Proceedings of the 15th international conference on Software Engineering</res:title>
+ 	<res:author>Victor R. Basili</res:author>
+ 	<res:author>Richard A. DeMillo</res:author>
+ 	<res:author>Takuya Katayama</res:author>
+ 	<res:language>english</res:language>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=972470.972483&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Review of "Questions and information systems" by Thomas W. Lauer, Eileen Peacock, and Arthur C. Graesser. Lawrence Erlbaum Associates 1992.</res:title>
+ 	<res:author>John S. White</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Publisher Site</res:format>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=169059.169215&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Prototyping an intelligent agent through Wizard of Oz</res:title>
+ 	<res:author>David Maulsby</res:author>
+ 	<res:author>Saul Greenberg</res:author>
+ 	<res:author>Richard Mander</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C97"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=800034.800897&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Interconnection of broadband local area networks</res:title>
+ 	<res:author>C. Sunshine</res:author>
+ 	<res:author>D. Kaufman</res:author>
+ 	<res:author>G. Ennis</res:author>
+ 	<res:author>K. Biba</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C98"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1273808.1273817&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Analyzing harmonic monitoring data using data mining</res:title>
+ 	<res:author>Ali Asheibi</res:author>
+ 	<res:author>David Stirling</res:author>
+ 	<res:author>Danny Soetanto</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1077534.1077576&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Transpost: all-around display system for 3D solid image</res:title>
+ 	<res:author>Rieko Otsuka</res:author>
+ 	<res:author>Takeshi Hoshino</res:author>
+ 	<res:author>Youichi Horry</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C99"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1402521.1402525&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Playscript for use cases</res:title>
+ 	<res:author>Richard Riehle</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1080730.1080742&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>An analytical model of rate-adaptive wireless LAN and its simulative verification</res:title>
+ 	<res:author>Carsten Burmeister</res:author>
+ 	<res:author>Ulrich Killat</res:author>
+ 	<res:author>Jens Bachmann</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=333580.333586&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Let's evaluate performance algebraically</res:title>
+ 	<res:author>Marco Bernardo</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1314498.1314560&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Behavioral Shaping for Geometric Concepts</res:title>
+ 	<res:author>Manu Chhabra</res:author>
+ 	<res:author>Robert A. Jacobs</res:author>
+ 	<res:author>Daniel &amp;amp;#352;tefankovi&amp;amp;#269;</res:author>
+ 	<res:language>english</res:language>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=352600.352635&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Cross-domain one-shot authorization using smart cards</res:title>
+ 	<res:author>Richard Au</res:author>
+ 	<res:author>Mark Looi</res:author>
+ 	<res:author>Paul Ashley</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C101"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1063669.1063670&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Introduction</res:title>
+ 	<res:author>Staff</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C102"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=70593.70602&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>UMAC: a simulated microprogrammable teaching aid</res:title>
+ 	<res:author>A. Dunworth</res:author>
+ 	<res:author>V. Upatising</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C103"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1146909.1147111&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Standard cell characterization considering lithography induced variations</res:title>
+ 	<res:author>Ke Cao</res:author>
+ 	<res:author>Sorin Dobre</res:author>
+ 	<res:author>Jiang Hu</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1220355.1220516&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Acquisition of semantic classes for adjectives from distributional evidence</res:title>
+ 	<res:author>Gemma Boleda</res:author>
+ 	<res:author>Toni Badia</res:author>
+ 	<res:author>Eloi Batlle</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Publisher Site</res:format>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=166237.166256&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Application of sampling methodologies to network traffic characterization</res:title>
+ 	<res:author>Kimberly C. Claffy</res:author>
+ 	<res:author>George C. Polyzos</res:author>
+ 	<res:author>Hans-Werner Braun</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C105"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1098847&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>ACM SIGUCCS Newsletter: Volume 20 Issue 3</res:title>
+ 	<res:author>Alicia Ewing Towster</res:author>
+ 	<res:language>english</res:language>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1379249.1379265&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Bloom's taxonomy for CS assessment</res:title>
+ 	<res:author>Errol Thompson</res:author>
+ 	<res:author>Andrew Luxton-Reilly</res:author>
+ 	<res:author>Jacqueline L. Whalley</res:author>
+ 	<res:author>Minjie Hu</res:author>
+ 	<res:author>Phil Robbins</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1145562.1145568&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>OpenSSL hacks</res:title>
+ 	<res:author>Anthony J. Stieber</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Html</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=365230.365255&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>The structure of programming languages</res:title>
+ 	<res:author>Bertram Raphael</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=191080.191144&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Semantic locking in object-oriented database systems</res:title>
+ 	<res:author>Rodolfo F. Resende</res:author>
+ 	<res:author>Divyakant Agrawal</res:author>
+ 	<res:author>Amr El Abbadi</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C106"/>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1007568.1007632&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Order preserving encryption for numeric data</res:title>
+ 	<res:author>Rakesh Agrawal</res:author>
+ 	<res:author>Jerry Kiernan</res:author>
+ 	<res:author>Ramakrishnan Srikant</res:author>
+ 	<res:author>Yirong Xu</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=275269.275279&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Book preview</res:title>
+ 	<res:author>Jennifer Bruer</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1073814.1073880&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Reliable broadcast in unknown fixed-identity networks</res:title>
+ 	<res:author>Lakshminarayanan Subramanian</res:author>
+ 	<res:author>Randy H. Katz</res:author>
+ 	<res:author>Volker Roth</res:author>
+ 	<res:author>Scott Shenker</res:author>
+ 	<res:author>Ion Stoica</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=340855.341045&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Reliability growth modeling from fault failure rates</res:title>
+ 	<res:author>Steven J. Zeil</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C109"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1095325.1095326&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Abstracts</res:title>
+ 	<res:author>S. A. Schuster</res:author>
+ 	<res:author>E. A. Ozkarahan</res:author>
+ 	<res:author>K. C. Smith</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1435467.1435470&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Decentralised dynamic code management for OSGi</res:title>
+ 	<res:author>Holger Schmidt</res:author>
+ 	<res:author>Jon H. Yip</res:author>
+ 	<res:author>Franz J. Hauck</res:author>
+ 	<res:author>R&amp;amp;#252;diger Kapitza</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C110"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1280940.1281050&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Locality support for mobile P2P network</res:title>
+ 	<res:author>Heien-Kun Chiang</res:author>
+ 	<res:author>Hown-Wen Chen</res:author>
+ 	<res:author>Feng-Lan Kuo</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1120212.1120217&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Conversational awareness in multiparty VMC</res:title>
+ 	<res:author>Roel Vertegaal</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=319463.319687&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Combined path and server selection in dynamic multimedia environments</res:title>
+ 	<res:author>Zhenghua Fu</res:author>
+ 	<res:author>Nalini Venkatasubramanian</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=325164.325159&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>A distributed I/O architecture for HARTS</res:title>
+ 	<res:author>Kang G. Shin</res:author>
+ 	<res:author>Greg Dykema</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1400468.1400482&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Box racer</res:title>
+ 	<res:author>Carolyn Anderson</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=192844.193041&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Integrating communication, cooperation, and awareness: the DIVA virtual office environment</res:title>
+ 	<res:author>Markus Sohlenkamp</res:author>
+ 	<res:author>Greg Chwelos</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=564040.564059&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Interactive visualisation of large multivariate datasets on the world-wide web</res:title>
+ 	<res:author>J L Wesson</res:author>
+ 	<res:author>P R Warren</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C111"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=362875&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Communications of the ACM: Volume 12 Issue 3</res:title>
+ 	<res:author>M. Stuart Lynn</res:author>
+ 	<res:language>english</res:language>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1225403.1225411&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>K-QARD: a practical Korean question answering framework for restricted domain</res:title>
+ 	<res:author>Young-In Song</res:author>
+ 	<res:author>HooJung Chung</res:author>
+ 	<res:author>Kyoung-Soo Han</res:author>
+ 	<res:author>JooYoung Lee</res:author>
+ 	<res:author>Hae-Chang Rim</res:author>
+ 	<res:author>Jae-Won Lee</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=381790.381802&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Multi-agent object level AI validation and verification</res:title>
+ 	<res:author>Cyrus F. Nourani</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=800029.808514&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Symbol manipulation with an associative memory</res:title>
+ 	<res:author>Robert R. Seeber</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C112"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=236452.236512&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>A supplementary package for distance education students studying introductory programming</res:title>
+ 	<res:author>Tanya McGill</res:author>
+ 	<res:author>Valerie Hobbs</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=948928.948929&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>End-to-end congestion control schemes: utility functions, random losses and ECN marks</res:title>
+ 	<res:author>Srisankar Kunniyur</res:author>
+ 	<res:author>R. Srikant</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+	<res:content rdf:resource="#C113"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=964055.964056&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Achievement in algebra II using computer programming</res:title>
+ 	<res:author>Michael P. Tilford</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://portal.acm.org/citation.cfm?id=1041739.1041741&amp;amp;coll=Portal&amp;amp;dl=ACM&amp;amp;CFID=18708583&amp;amp;CFTOKEN=89458887">
+	<res:title>Deficiencies in computer pricing structure theory</res:title>
+ 	<res:author>Thomas Giammo</res:author>
+ 	<res:language>english</res:language>
+ 	<res:format>Pdf</res:format>
+	<res:vocname>acmccs98</res:vocname>
+ 	<res:submitter>sangue</res:submitter>
+ 	<res:type>0</res:type>
+ 	<res:state>1</res:state>
+</rdf:Description>
+
+
+</rdf:RDF>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE rdf:RDF [
+		<!ENTITY base "http://localhost/digitlib/data/">
+		<!ENTITY user "&base;users.rdfs#">
+]>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+        xmlns:user="&user;"
+        xml:base="&user;">
+
+<rdfs:Class rdf:ID="user">
+     <rdfs:isDefinedBy rdf:resource="&user;"/>
+  <rdfs:label>user</rdfs:label>
+  <rdfs:comment>The user class of our digital library model</rdfs:comment>
+</rdfs:Class>
+
+<rdfs:Property rdf:ID="firstname">
+	<rdfs:domain  rdf:resource="#user"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="lastname">
+	<rdfs:domain  rdf:resource="#user"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="login">
+	<rdfs:domain  rdf:resource="#user"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="password">
+	<rdfs:domain  rdf:resource="#user"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="status">
+	<rdfs:domain  rdf:resource="#user"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="adress">
+	<rdfs:domain  rdf:resource="#user"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="phone">
+	<rdfs:domain  rdf:resource="#user"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="mail">
+	<rdfs:domain  rdf:resource="#user"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="notifmethod">
+	<rdfs:domain  rdf:resource="#user"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="subscription">
+	<rdfs:domain  rdf:resource="#user"/>
+	<rdfs:range rdf:resource="rdf:Resource"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="state">
+	<rdfs:domain  rdf:resource="#user"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+</rdf:RDF>

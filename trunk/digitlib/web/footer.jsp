@@ -1,0 +1,1 @@
+<jsp:include page="<%=\"/themes/\"+(String)session.getAttribute(\"theme\")+\"/footer.jsp\"%>"></jsp:include>

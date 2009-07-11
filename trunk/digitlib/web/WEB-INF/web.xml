@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.4" xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">  
+    <resource-ref>
+        <description>Tomcat DBCP</description>
+        <res-ref-name>jdbc/digitlibpool</res-ref-name>
+        <res-type>javax.sql.DataSource</res-type>
+        <res-auth>Container</res-auth>
+    </resource-ref>
+    <context-param>
+        <param-name>language</param-name>
+        <param-value>en</param-value>
+    </context-param>
+    <context-param>
+        <param-name>country</param-name>
+        <param-value>US</param-value>
+    </context-param>
+    <context-param>            
+        <description>The database user</description>
+        <param-name>USER</param-name>
+        <param-value>root</param-value>
+    </context-param>     
+    <context-param>
+        <description>Password</description>
+        <param-name>PWD</param-name>
+        <param-value>rootroot</param-value>
+    </context-param>    
+    <context-param>
+        <description>Database tables prefix</description>
+        <param-name>PREFIX</param-name>
+        <param-value>dl_</param-value>            
+    </context-param>      
+    <context-param>
+        <description>The database type</description>
+        <param-name>DBTYPE</param-name>
+        <!--param-value>PostgreSQL</param-value-->
+        <param-value>MySQL</param-value>    
+        <!--param-value>Oracle</param-value-->               
+    </context-param>
+    <context-param>
+        <description>The database url</description>
+        <param-name>URL</param-name>
+        <!--param-value>jdbc:postgresql://localhost:5432/digitlib?autoReconnect=true</param-value-->
+        <param-value>jdbc:mysql://127.0.0.1:3306/digitlib?autoReconnect=true</param-value>
+        <!--param-value>jdbc:oracle:thin:@localhost:1521:XE</param-value-->             
+    </context-param>   
+    <context-param>
+    <description>The database driver</description>
+    <param-name>DRIVER</param-name>
+    <!--param-value>org.postgresql.Driver</param-value-->
+    <param-value>com.mysql.jdbc.Driver</param-value>   
+    <!--param-value>oracle.jdbc.driver.OracleDriver</param-value-->              
+    </context-param>              
+    <context-param>
+        <param-name>HOST</param-name>
+        <param-value>localhost</param-value>
+    </context-param>
+    <context-param>
+        <param-name>DBNAME</param-name>
+        <param-value>digitlib</param-value>
+    </context-param>
+    <servlet>
+        <servlet-name>InitServlet</servlet-name>
+        <servlet-class>org.digitlib.InitServlet</servlet-class>
+        <load-on-startup>1</load-on-startup>
+    </servlet>            
+                
+    <servlet-mapping>
+        <servlet-name>InitServlet</servlet-name>
+        <url-pattern>/InitServlet</url-pattern>
+    </servlet-mapping>
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+    <welcome-file-list>
+        <welcome-file>
+            index.jsp
+        </welcome-file>
+    </welcome-file-list>
+    
+    <display-name>RDF Validator</display-name>
+    <description>
+	This is the friggin' RDF Validator
+    </description>
+
+    <servlet>
+        <servlet-name>RDFValidatorServlet</servlet-name>
+        <servlet-class>org.w3c.rdfvalidator.ARPServlet</servlet-class>
+	<init-param>
+            <param-name>SERVLET_TMP_DIR</param-name>
+            <param-value>RDFValidator\ARPServlet.tmp</param-value>
+        </init-param>
+	<init-param>
+            <param-name>BITMAPPED_FONT</param-name>
+            <param-value>cyberbit</param-value> <!-- might try cyberbit, ariel, arialuni -->
+        </init-param>
+	<init-param>
+            <param-name>VECTOR_FONT</param-name>
+            <param-value>Courier</param-value> <!-- might try Courier, arialuni -->
+        </init-param>
+	<init-param>
+            <param-name>RENDER_DOT</param-name>
+            <param-value>docs\RDFValidator\renderDot</param-value>
+        </init-param>
+	<init-param>
+            <param-name>LOG_A_LOT</param-name>
+            <param-value> 1</param-value>
+        </init-param>
+	<init-param>
+            <param-name>GRAPH_VIZ_ROOT</param-name>
+            <param-value>docs\RDFValidator\graphviz-2.20.3</param-value>
+        </init-param>
+	<init-param>
+            <param-name>GRAPH_VIZ_PATH</param-name>
+            <param-value>cmd\lneato</param-value>
+        </init-param>
+	<init-param>
+            <param-name>GRAPH_VIZ_FONT_DIR</param-name>
+            <param-value>share\fonts</param-value>
+        </init-param>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>RDFValidatorServlet</servlet-name>
+        <url-pattern>/ARPServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>RDFValidatorServletTest</servlet-name>
+        <servlet-class>org.w3c.rdfvalidator.ARPServletTest</servlet-class>
+	<init-param>
+            <param-name>SERVLET_TMP_DIR</param-name>
+            <param-value>docs\RDFValidator\ARPServlet.tmp</param-value>
+        </init-param>
+	<init-param>
+            <param-name>BITMAPPED_FONT</param-name>
+            <param-value>cyberbit</param-value> <!-- might try cyberbit, ariel, arialuni -->
+        </init-param>
+	<init-param>
+            <param-name>VECTOR_FONT</param-name>
+            <param-value>Courier</param-value> <!-- might try Courier, arialuni -->
+        </init-param>
+	<init-param>
+            <param-name>RENDER_DOT</param-name>
+            <param-value>docs\RDFValidator\renderDot</param-value>
+        </init-param>
+	<init-param>
+            <param-name>LOG_A_LOT</param-name>
+            <param-value> 1</param-value>
+        </init-param>
+	<init-param>
+            <param-name>GRAPH_VIZ_ROOT</param-name>
+            <param-value>RDFValidator\graphviz-2.20.3</param-value>
+        </init-param>
+	<init-param>
+            <param-name>GRAPH_VIZ_PATH</param-name>
+            <param-value>cmd\lneato</param-value>
+        </init-param>
+	<init-param>
+            <param-name>GRAPH_VIZ_FONT_DIR</param-name>
+            <param-value>share\fonts</param-value>
+        </init-param>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>RDFValidatorServletTest</servlet-name>
+        <url-pattern>/ARPServletTest</url-pattern>
+    </servlet-mapping>
+</web-app>

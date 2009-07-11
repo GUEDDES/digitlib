@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE rdf:RDF [
+		<!ENTITY base "http://localhost/digitlib/data/">
+]>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+xmlns:voc= "&base;vocabularies.rdfs#" 
+xml:base="&base;resources.rdfs#">
+
+<rdfs:Class rdf:ID="resource">
+  <rdfs:label>The resource class</rdfs:label>
+  <rdfs:comment>It can be (text, image, audio, video, etc</rdfs:comment>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="text">
+    <rdfs:label xml:lang="en">The resource text class</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#resource" />
+</rdfs:Class>
+<rdfs:Class rdf:ID="image">
+    <rdfs:label xml:lang="en">The resource text class</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#resource" />
+</rdfs:Class>
+<rdfs:Class rdf:ID="audio">
+    <rdfs:label xml:lang="en">The resource text class</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#resource" />
+</rdfs:Class>
+<rdfs:Class rdf:ID="video">
+    <rdfs:label xml:lang="en">The resource text class</rdfs:label>
+    <rdfs:subClassOf rdf:resource="#resource" />
+</rdfs:Class>
+
+<rdfs:Property rdf:ID="type">
+	<rdfs:domain  rdf:resource="#resource"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="vocabulary">
+	<rdfs:domain  rdf:resource="#resource"/>
+	<rdfs:range rdf:resource="voc:vocabulary"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="content">
+	<rdfs:domain  rdf:resource="#resource"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="language">
+	<rdfs:domain  rdf:resource="resource"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="format">
+	<rdfs:domain  rdf:resource="#resource"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="author">
+	<rdfs:domain  rdf:resource="#resource"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="submitter">
+	<rdfs:domain  rdf:resource="#resource"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="state">
+	<rdfs:domain  rdf:resource="#resource"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+
+</rdf:RDF>
