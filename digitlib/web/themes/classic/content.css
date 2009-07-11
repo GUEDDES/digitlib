@@ -1,0 +1,163 @@
+.msg{
+    margin: 0px 0px 0px 8px;
+    font-size: 80%;
+    color:  #FF0000;
+}
+
+.redText{
+    margin: 0px 0px 0px 8px;
+    font-size: 80%;
+    color:  #FF0000;
+}
+
+
+h1{
+    font-size: 14px;
+}
+
+h2{
+    font-size: 12px;
+}
+
+.box{
+    border: 0px #cccccc solid;
+    padding: 4px 4px 4px 4px;
+    margin: 6px 0px 0px 0px;
+    vertical-align: top;
+    font-size: 13px;    
+}
+.box table{
+    border: 0px #cccccc solid;
+    padding: 4px 4px 4px 4px;
+    margin: 6px 0px 0px 0px;
+    vertical-align: top;
+    font-size: 13px;
+}
+
+.box td{    
+    text-align: left;    
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.box1{
+    border: 1px #cccccc solid;
+    padding: 4px 4px 4px 4px;
+    margin: 6px 0px 0px 0px;
+    vertical-align: top;
+    font-size: 13px;
+}
+
+
+.box1 h1{
+    padding: 0px 0px 4px 0px;
+    margin: 0px 0px 0px 0px;
+    font-size: 16px;
+    color: #334d55;
+}
+
+.box1 h2{
+    padding: 5px 0px 5px 0px;
+    margin: 0px 0px 0px 0px;
+    font-size: 14px;
+    color: #334d55;
+}
+
+.box1 h3{
+    padding: 5px 0px 5px 0px;
+    margin: 0px 0px 0px 0px;
+    font-size: 12px;
+}
+
+.box1 table{
+    border: 0px #cccccc solid;
+    padding: 4px 4px 4px 4px;
+    margin: 6px 0px 0px 0px;
+    vertical-align: top;
+    font-size: 13px;
+}
+
+#vocbrowserbloc{
+    float:right;
+    border: 1px #cccccc solid;
+    padding: 4px 4px 4px 4px;
+    margin: 6px 0px 0px 0px;
+    vertical-align: top;
+    font-size: 13px;
+    width:310px;
+    height:260px;
+    right:1px;
+    overflow:scroll;
+}
+
+
+#pre{
+    margin: 0px;
+    padding: 8px 0px 8px 15px;
+    font-size: 12px;
+}
+
+
+#queries{
+    margin: 0px;
+    padding: 8px 0px 8px 15px;
+    font-size: 12px;
+}
+#pre2{
+    font: 13px Arial,sans-serif;
+    color: #336666;
+    margin: 0px;
+    padding: 0px;
+}
+#field{
+    margin: 10px 5px 10px 5px;        
+}
+
+#story{
+    font-size: 10px;
+}
+#navFormSearch {margin: 0px 0px 0px 5px;}
+#navFormSearch form  select{margin: 2px 5px 0px 0px;}
+#navFormSearch form  #swpLink{margin: 0px 25px 0px 0px;}
+
+#dlhelp{
+    margin: 5px 0px 0px 0px;
+    font: 90% Verdana,Arial,sans-serif;
+    text-align: justify;   
+}
+#dlhelp b{color: #333333;}
+#dlhelp #title{
+    margin: 10px 0px 0px 0px;
+    font: 100%;  
+    font: bold;
+    color: #666666;
+}
+
+
+#dlresult{
+    margin: 0px 0px 0px 0px;
+    font: 90% Verdana,Arial,sans-serif;
+    text-align: justify;   
+}
+#dlresult b{color: #333333;}
+#title{
+    margin: 0px 0px 5px 0px;
+    font: 100%;  
+    color: #666666;
+    font-weight: bold;
+}
+
+#usearchform{
+    margin: 10px 0px 10px 10px;
+    font: 150% Verdana,Arial,sans-serif;
+    text-align: justify;   
+    color: #666666;
+}
+#usearchform select{
+    margin: 5px 0px 0px 10px;
+}
+#usearchform span{
+    margin: 5px 0px 0px 90px;
+}

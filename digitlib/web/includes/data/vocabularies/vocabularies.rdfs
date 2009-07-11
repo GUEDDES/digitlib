@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE rdf:RDF [
+		<!ENTITY base "http://localhost/digitlib/data/">
+		<!ENTITY voc "&base;vocabularies.rdfs#">
+		<!ENTITY term "&base;vocterms.rdfs#">
+]>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xml:base="&base;vocabularies.rdfs#">
+
+
+<rdfs:Class rdf:ID="vocabulary">
+  <rdfs:label>Ctrl vocabulary</rdfs:label>
+  <rdfs:comment>Ctrl vocabulary </rdfs:comment>
+</rdfs:Class>
+
+<rdfs:Class rdf:ID="term">
+  <rdfs:label>term from vocabulary</rdfs:label>
+  <rdfs:comment>The term class</rdfs:comment>
+</rdfs:Class>
+
+<rdfs:Property rdf:about="&term;parentname">
+	<rdfs:domain  rdf:resource="&term;term"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+        <rdfs:comment>For term from taxonomy</rdfs:comment>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="name">
+	<rdfs:domain  rdf:resource="voc"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="language">
+	<rdfs:domain  rdf:resource="voc"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="type">
+	<rdfs:domain  rdf:resource="voc"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="state">
+	<rdfs:domain  rdf:resource="voc"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="term">
+	<rdfs:domain  rdf:resource="&voc;voc"/>
+    <rdfs:range>
+       <rdf:Alt>
+         <rdf:li rdf:resource="rdf:Litteral"/>
+         <rdf:li rdf:resource="&term;term"/>
+       </rdf:Alt>
+	</rdfs:range>
+</rdfs:Property>
+
+</rdf:RDF>

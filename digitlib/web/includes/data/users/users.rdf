@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE rdf:RDF [
+		<!ENTITY base "http://localhost/digitlib/data/">
+		<!ENTITY subscrip "&base;subscriptions.rdf#">
+		<!ENTITY user "&base;users.rdfs#">
+]>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+        xmlns:user="&user;"
+        xml:base="&base;users.rdf#">
+
+<rdf:Description rdf:about="#admin">
+<user:firstname>Admin</user:firstname>
+<user:lastname>Admin</user:lastname>
+<user:login>admin</user:login>
+<user:password>admin</user:password>
+<user:status>admin</user:status>
+<user:adress>lri</user:adress>
+<user:phone>0160000000</user:phone>
+<user:email>admin@digitlib.com</user:email>
+<user:notifmethod>1</user:notifmethod>
+<user:subscription rdf:resource="&subscrip;admin_1"/>
+<user:state>1</user:state>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="#robu">
+<user:firstname>Gregoire</user:firstname>
+<user:lastname>Baudrimont</user:lastname>
+<user:login>robu</user:login>
+<user:password>robu</user:password>
+<user:status>admin</user:status>
+<user:adress>antony</user:adress>
+<user:phone>0160000000</user:phone>
+<user:email>gregoire.baudrimont@gmail.com</user:email>
+<user:notifmethod>1</user:notifmethod>
+<user:subscription rdf:resource="&subscrip;robu_1"/>
+<user:state>1</user:state>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="#steff">
+<user:firstname>Stephane</user:firstname>
+<user:lastname>Bakdache</user:lastname>
+<user:login>steff</user:login>
+<user:password>steff</user:password>
+<user:status>admin</user:status>
+<user:adress>Chatenay</user:adress>
+<user:phone>0160000000</user:phone>
+<user:email>stephane.bakdache@gmail.com</user:email>
+<user:notifmethod>1</user:notifmethod>
+<user:subscription rdf:resource="&subscrip;steff_1"/>
+<user:subscription rdf:resource="&subscrip;sisi_1"/>
+<user:state>1</user:state>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="#sisi">
+<user:firstname>Sebastien</user:firstname>
+<user:lastname>Lefebvre</user:lastname>
+<user:login>sisi</user:login>
+<user:password>sisi</user:password>
+<user:status>admin</user:status>
+<user:adress>Orsay</user:adress>
+<user:phone>0160000000</user:phone>
+<user:email>fifi91@gmail.com</user:email>
+<user:notifmethod>1</user:notifmethod>
+<user:subscription rdf:resource="&subscrip;sisi_1"/>
+<user:state>1</user:state>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="#sokaru">
+<user:firstname>Matthieu</user:firstname>
+<user:lastname>Pheulpin</user:lastname>
+<user:login>sokaru</user:login>
+<user:password>sokaru</user:password>
+<user:adress>Longjumeau</user:adress>
+<user:phone>0160000000</user:phone>
+<user:status>admin</user:status>
+<user:email>sokaru@gmail.com</user:email>
+<user:notifmethod>1</user:notifmethod>
+<user:subscription rdf:resource="&subscrip;sokaru_1"/>
+<user:state>1</user:state>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="#nguer">
+<user:firstname>Mamadou</user:firstname>
+<user:lastname>Nguer</user:lastname>
+<user:login>nguer</user:login>
+<user:password>nguer</user:password>
+<user:adress>lri</user:adress>
+<user:phone>0160000000</user:phone>
+<user:status>admin</user:status>
+<user:email>toto@toto.fr</user:email>
+<user:notifmethod>1</user:notifmethod>
+<user:subscription rdf:resource="&subscrip;nguer_1"/>
+<user:state>1</user:state>
+</rdf:Description>
+
+</rdf:RDF>

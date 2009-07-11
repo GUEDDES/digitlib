@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rss="http://purl.org/rss/1.0/">
+<rss:channel rdf:about="C:\Program Files\Apache Software Foundation\Apache Tomcat 6.0.18\webapps\trunk\digitlibv2\build\web\..\..\web\rss\admin.rss">
+<rss:title>Notifications Digitlib</rss:title>
+<dc:creator>Digitlib</dc:creator>
+<dc:rights>Free</dc:rights>
+<rss:description>Liste des Notifications</rss:description>
+<rss:items>
+<rdf:Seq> <rdf:li rdf:resource="fffff"/>
+</rdf:Seq>
+</rss:items>
+</rss:channel>
+<rss:item rdf:about="fffff">
+<rss:title>insertion</rss:title>
+<rss:link>fffff</rss:link>
+<rss:description>Resource concerned : fffff
+Update type : insertion
+Submitter : Admin Admin
+Document type : fff
+Terms describing this resource :  A. A.1</rss:description>
+</rss:item>
+</rdf:RDF>

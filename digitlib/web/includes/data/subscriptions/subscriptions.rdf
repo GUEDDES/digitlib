@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rdf:RDF [
+		<!ENTITY base "http://localhost/digitlib/data/">
+		<!ENTITY acmccs98 "http://www.acm.org/class/1998">
+		<!ENTITY algebra "http://www.mathwords.com/index_algebra.htm">
+        <!ENTITY subs "&base;substree.rdf">
+]>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:subscrip="&base;subscriptions.rdfs#"
+xml:base="&base;subscriptions.rdf">
+
+</rdf:RDF>

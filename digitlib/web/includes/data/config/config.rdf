@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE rdf:RDF [
+		<!ENTITY base "http://localhost/digitlib/data/">
+]>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+        xmlns:config="&base;config.rdfs#"
+        xml:base="&base;config.rdf#">
+
+<rdf:Description rdf:about="&base;config.rdf">
+<config:sitename>DigitLib</config:sitename>
+<config:slogan>An open source digital library management system</config:slogan>
+<config:startdate>03:2008</config:startdate>
+<config:restype>1</config:restype>
+<config:adminmail>admin@digitlib.org</config:adminmail>
+<config:multitheme>1</config:multitheme>
+<config:theme>classic</config:theme>
+<config:multilingual>1</config:multilingual>
+<config:language>en_US</config:language>
+<config:multivoc>0</config:multivoc>
+<config:vocname>acmccs98</config:vocname>
+<config:voctype>2</config:voctype>
+<config:bcmethod>0</config:bcmethod>
+<config:srchtype>0</config:srchtype>
+<config:ressrchattrib>content</config:ressrchattrib>
+<config:ressrchattrib>language</config:ressrchattrib>
+<config:ressrchattrib>format</config:ressrchattrib>
+<config:ressrchattrib>author</config:ressrchattrib>
+<config:resnotifattrib>content</config:resnotifattrib>
+<config:resnotifattrib>language</config:resnotifattrib>
+<config:resnotifattrib>format</config:resnotifattrib>
+<config:resnotifattrib>author</config:resnotifattrib>
+<config:allowednotifattrib>content</config:allowednotifattrib>
+<config:allowednotifattrib>language</config:allowednotifattrib>
+<config:allowednotifattrib>format</config:allowednotifattrib>
+<config:allowednotifattrib>author</config:allowednotifattrib>
+</rdf:Description>
+</rdf:RDF>    

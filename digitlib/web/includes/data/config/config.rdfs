@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE rdf:RDF [
+		<!ENTITY base "http://localhost/digitlib/data/">
+		<!ENTITY config "&base;config.rdfs#">
+]>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+        xmlns:dc="http://purl.org/dc/elements/1.1/" 
+        xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+        xml:base="&base;config.rdfs#">
+
+<rdfs:Class rdf:ID="config">
+     <rdfs:isDefinedBy rdf:resource="&config;"/>
+  <rdfs:label>config</rdfs:label>
+  <rdfs:comment>The configuration class of the digital library model</rdfs:comment>
+</rdfs:Class>
+
+<rdfs:Property rdf:ID="sitename">
+	<rdfs:domain  rdf:resource="#config"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+        <rdfs:comment>Site's name property</rdfs:comment>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="slogan">
+	<rdfs:domain  rdf:resource="#config"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+        <rdfs:comment></rdfs:comment>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="startdate">
+	<rdfs:domain  rdf:resource="#config"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+        <rdfs:comment></rdfs:comment>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="restype">
+	<rdfs:domain  rdf:resource="#config"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+        <rdfs:comment></rdfs:comment>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="adminmail">
+	<rdfs:domain  rdf:resource="#config"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+        <rdfs:comment></rdfs:comment>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="multitheme">
+	<rdfs:domain  rdf:resource="#config"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+        <rdfs:comment></rdfs:comment>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="theme">
+	<rdfs:domain  rdf:resource="#config"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+        <rdfs:comment></rdfs:comment>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="multilingual">
+	<rdfs:domain  rdf:resource="#config"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+        <rdfs:comment></rdfs:comment>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="language">
+	<rdfs:domain  rdf:resource="#config"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+        <rdfs:comment></rdfs:comment>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="multivoc">
+	<rdfs:domain  rdf:resource="#config"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+        <rdfs:comment></rdfs:comment>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="vocname">
+	<rdfs:domain  rdf:resource="#config"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+        <rdfs:comment></rdfs:comment>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="voctype">
+	<rdfs:domain  rdf:resource="#config"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+        <rdfs:comment></rdfs:comment>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="bcmethod">
+	<rdfs:domain  rdf:resource="#config"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+        <rdfs:comment></rdfs:comment>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="srchtype">
+	<rdfs:domain  rdf:resource="#config"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+        <rdfs:comment></rdfs:comment>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="ressrchattrib">
+	<rdfs:domain  rdf:resource="#config"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+        <rdfs:comment></rdfs:comment>
+</rdfs:Property>
+
+<rdfs:Property rdf:ID="resnotifattrib">
+	<rdfs:domain  rdf:resource="#config"/>
+	<rdfs:range rdf:resource="rdf:Litteral"/>
+        <rdfs:comment></rdfs:comment>
+</rdfs:Property>
+</rdf:RDF>

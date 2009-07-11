@@ -1,0 +1,44 @@
+DigitLib: Digital Library System
+================================
+
+
+Base Requirements
+-----------------
+
+In order to setup DigitLib the folowing prerequisits are necessary.
+
+- A Linux or Windows Box installed and working properly.
+- Apache Web Server (http://www.apache.org)
+- Tomcat server http://tomcat.apache.org/
+- MySQL database server (http://www.mysql.com) for this version 
+
+NOTE:The official test server is MySQL which is used to develop DigitLib. Any feedback about others SQL Servers and how it works will be very appreciated and useful.
+
+
+Installing the Package
+----------------------
+
+Unzip the package into the directory you want to use on you web server.
+Three things MAY be necessary before installing the system:
+1) change the database (MySQL or postgreSQL) as RDF repositories. So edit the file web.xml at the java directory WEB-INF
+2) change username and password for dababase connexion. 
+3) change the data locator url  dataLoc. 
+
+First Run
+---------
+
+setup http://localhost:port:/digitlib/modules.jsp?name=install to install the rdf database in your Mysql or postgres SGBD.
+Ans now, your can logged using login and password of default user in web/includes/data/users.rdf
+
+That's all
+
+
+
+
+**************************************************
+* DigitLib URL: http://digitlib.sourceforge.net/ *
+**************************************************
+
+Enjoy!
+
+-- Elhadji Mamadou NGUER
