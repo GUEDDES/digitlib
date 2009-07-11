@@ -1,8 +1,5 @@
 #labels Phase-Requirements,Phase-Deploy
-= Installing DigitLib =
-
-
-= Base Requirements =
+= Installation: Base Requirements =
 
 In order to setup DigitLib the following prerequisits are necessary:
 
